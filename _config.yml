@@ -15,7 +15,7 @@ baseurl: ""
 title: Jonathan Homola | PhD Student
 
 # Short description of your site
-description: Personal website for Jonathan Homola, including information on ongoing research projects, links to replication files, and my CV.
+description: PhD Student in Political Science at Washington University in St. Louis
 
 # --- Navigation bar options --- #
 
@@ -41,7 +41,6 @@ author:
   email: "homola@wustl.edu"
   github: jhomola
   twitter: j_homola
-  google_scholar : "citations?user=EnRHC-4AAAAJ&hl=en"
   #facebook: yourname
   #reddit: yourname
   #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
@@ -80,7 +79,7 @@ share-links-active:
   linkedin: false
 
 # How to display the link to the website in the footer
-#url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "mailto: homola@wustl.edu"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
