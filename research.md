@@ -23,12 +23,12 @@ Budge, Ian, and Jonathan Homola. 2012. "How Far Have European Political Parties 
 
 # Work in Progress
 
-Homola, Jonathan. The Electoral Consequences of Separate Voting. [Abstract](http://jhomola.github.io/abstracts#the-electoral-consequences-of-separate-voting)
+Homola, Jonathan. The Electoral Consequences of Separate Voting. [Abstract](http://jhomola.github.io/abstracts#separate)
 
 Homola, Jonathan, Jon C. Rogowski, Betsy Sinclair, Michelle Torres, and Patrick Tucker. Through the Ideology of the Beholder: Partisan Perceptions and Polarization Among the Mass Public. *Revise and Resubmit*. [Abstract](http://jhomola.github.io/abstracts#ideology)
 
-Homola, Jonathan, and Margit Tavits. Perceived Threats about Immigration. *Under Review*.
+Homola, Jonathan, and Margit Tavits. Perceived Threats about Immigration. *Under Review*. [Abstract](http://jhomola.github.io/abstracts#threats)
 
-Homola, Jonathan, and Margit Tavits. Contact Reduces Immigration-Related Fears for Leftist but Not for Rightist Voters. *Under Review*.
+Homola, Jonathan, and Margit Tavits. Contact Reduces Immigration-Related Fears for Leftist but Not for Rightist Voters. *Under Review*.[Abstract](http://jhomola.github.io/abstracts#contact)
 
-Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, and Patrick Tucker. The Dynamic Relationship between Personality Stability and Political Attitudes. *Revise and Resubmit*.
+Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, and Patrick Tucker. The Dynamic Relationship between Personality Stability and Political Attitudes. *Revise and Resubmit*.[Abstract](http://jhomola.github.io/abstracts#tipi)
