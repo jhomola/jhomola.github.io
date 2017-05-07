@@ -79,7 +79,7 @@ share-links-active:
   linkedin: false
 
 # How to display the link to the website in the footer
-url-pretty: "mailto: homola@wustl.edu"
+#url-pretty: "placeholder.com"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
