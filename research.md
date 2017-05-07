@@ -23,7 +23,7 @@ Budge, Ian, and Jonathan Homola. 2012. "How Far Have European Political Parties 
 
 # Work in Progress
 
-Homola, Jonathan. The Electoral Consequences of Separate Voting.
+Homola, Jonathan. The Electoral Consequences of Separate Voting. [Abstract](abstracts/#the-electoral-consequences-of-separate-voting)
 
 Homola, Jonathan, Jon C. Rogowski, Betsy Sinclair, Michelle Torres, and Patrick Tucker. Through the Ideology of the Beholder: Partisan Perceptions and Polarization Among the Mass Public. *Revise and Resubmit*.
 
