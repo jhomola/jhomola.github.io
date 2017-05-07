@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Jonathan Homola - Research"
+title: "Research"
 ---
 
 # Publications
