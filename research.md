@@ -14,6 +14,7 @@ Homola, Jonathan, Natalie Jackson, and Jeff Gill. 2016. "A measure of survey mod
 Gill, Jeff, and Jonathan Homola. 2016. "Issues in Polling Methodologies: Inference and Uncertainty." In: Lonna Rae Atkinson and R. Michael Alvarez (eds.): *The Oxford Handbook of Polling and Polling Methods*. Oxford: Oxford University Press. [Link](http://dx.doi.org/10.1093/oxfordhb/9780190213299.013.11 "OUP Handbooks")
 
 Ezrow, Lawrence, Jonathan Homola, and Margit Tavits. 2014. "When Extremism Pays: Policy Positions, Voter Certainty, and Party Support in Postcommunist Europe." *Journal of Politics* 76: 535-547. [Link](http://dx.doi.org/10.1017/S0022381613001461 "Journal of Politics")
+ * APSA Comparative Politics Newsletter, Fall 2014: "Party Positioning and Election Outcomes: Comparing Post-Communist Europe to Established Democracies." [Link](http://charlescrabtree.com/archived_newsletters/2014_fall.pdf "Comparative Politics Newsletter")
 
 Ezrow, Lawrence, Margit Tavits, and Jonathan Homola. 2014. "Voter Polarization, Strength of Partisanship, and Support for Extremist Parties." *Comparative Political Studies* 47: 1558-1583. [Link](http://dx.doi.org/10.1177/0010414013512605 "Comparative Political Studies")
  * Washington Post, Monkey Cage, August 15, 2014: "When does polarization matter?" [Link](http://www.washingtonpost.com/blogs/monkey-cage/wp/2014/08/15/when-does-polarization-matter/ "Washington Post/Monkey Cage")
