@@ -10,7 +10,6 @@ title: "Teaching Experience"
 * Two-session crash course "Introduction to R for Text Analysis" as part of "Introduction to Computational Linguistics"
   * Henry Biggs, Fall 2015 & Fall 2016
 
-
 #### Teaching Assistant 
 * Public Policy Analysis
   * Daniel Butler, Fall 2014
@@ -24,7 +23,6 @@ title: "Teaching Experience"
   * Jacob Montgomery, Spring 2016
 * Longitudinal and Event History Models for the Social and Political Sciences
   * Jeff Gill, Spring 2017
-
 
 ### University of Essex
 #### Essex Summer School in Social Science Data Analysis
