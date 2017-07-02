@@ -29,6 +29,6 @@ Homola, Jonathan, Jon C. Rogowski, Betsy Sinclair, Michelle Torres, and Patrick 
 
 Homola, Jonathan, and Margit Tavits. Perceived Threats about Immigration. *Under Review*. [Abstract](http://jhomola.github.io/abstracts#threats)
 
-Homola, Jonathan, and Margit Tavits. Contact Reduces Immigration-Related Fears for Leftist but Not for Rightist Voters. *Under Review*. [Abstract](http://jhomola.github.io/abstracts#contact)
+Homola, Jonathan, and Margit Tavits. Contact Reduces Immigration-Related Fears for Leftist but Not for Rightist Voters. *Revise and Resubmit*. [Abstract](http://jhomola.github.io/abstracts#contact)
 
 Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, and Patrick Tucker. The Dynamic Relationship between Personality Stability and Political Attitudes. *Revise and Resubmit*. [Abstract](http://jhomola.github.io/abstracts#tipi)
