@@ -12,7 +12,9 @@ bigimg:
   - "/img/stl2.JPG": "St. Louis"
 ---
 
-<img style="float:right; margin=0 20px 0 0" height="445px" width="400px" src="/img/profile.JPG" />
+<div style="float:right; margin=0 20px 0 0" height="445px" width="400px" markdown="1">
+    ![book](/img/profile.JPG)
+</div>
 
 Hi! I am Jonathan Homola, a fourth year graduate student in the Department of Political Science at [Washington University in St. Louis](http://polisci.wustl.edu/ "Washington University in St. Louis"). My broad research interests are in the areas of comparative politics and political methodology.
 
