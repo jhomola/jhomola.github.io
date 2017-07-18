@@ -17,6 +17,5 @@ Hi! I am Jonathan Homola, a fourth year graduate student in the Department of Po
 
 Before coming to St. Louis, I completed my undergraduate studies at [Freie Universität Berlin](http://www.polsoz.fu-berlin.de/en/polwiss/index.html "Freie Universität Berlin") in 2011, and obtained a Master's degree at the [University of Essex](http://www.essex.ac.uk/government/ "University of Essex") in 2013.
 
-<div class='pull-right' markdown="1" style="border: 1px solid black; padding: 15px;" height: 192px; width: 192px;>
-![Profile Photo](/img/profile.JPG)
-</div>
+
+<img style="float:right" height="192px" width="192px" src="/img/profile.JPG" />
