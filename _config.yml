@@ -44,9 +44,9 @@ author:
   email: "homola@wustl.edu"
   github: jhomola
   twitter: j_homola
+  google-plus: aSE6nxMAAAAJ  # (programmed hack in footer file to make it googlescholar)
   #facebook: yourname
   #reddit: yourname
-  #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   #linkedin: yourname 
   #xing: yourname
   #stackoverflow: yourlink  # eg. "3943160/daattali"
@@ -62,7 +62,7 @@ footer-links-active:
   facebook: false
   email: true
   twitter: true
-  google-plus: false
+  google-plus: true
   github: true
   reddit: false
   linkedin: false
