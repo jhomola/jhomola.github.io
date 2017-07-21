@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Software"
+use-mix-title: true
 ---
 
 #### [BaM](https://cran.r-project.org/package=BaM "BaM on CRAN") (author)
