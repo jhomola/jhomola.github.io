@@ -2,6 +2,8 @@
 layout: page
 title: "Research"
 ---
+You can find my Google Scholar profile <a href="https://scholar.google.com/citations?user=aSE6nxMAAAAJ" target="_blank">here.</a>
+Information on my activities as a reviewer can be found on my Publons profile <a href="https://publons.com/a/1249053/" target="_blank">here.</a>
 
 # Publications
 
