@@ -3,7 +3,6 @@ layout: page
 title: Jonathan Homola
 subtitle: PhD Student, Political Science
 use-site-title: true
-image: /img/profile.JPG
 bigimg:
   - "/img/berlin1.JPG": "Berlin"
   - "/img/uk1.JPG": "London"
@@ -13,7 +12,7 @@ bigimg:
   - "/img/stl2.JPG": "St. Louis"
 ---
 
-
+<img align="right" height="445px" width="400px" margin-left="50px" src="/img/profile.JPG" />
 
 Hi! I am Jonathan Homola, a fourth year graduate student in the Department of Political Science at <a href="http://polisci.wustl.edu/" target="_blank">Washington University in St. Louis</a>. My broad research interests are in the areas of comparative politics and political methodology.
 
