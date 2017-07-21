@@ -3,6 +3,8 @@ layout: page
 title: "Contact"
 ---
 
+<span style="font-weight:bold">Address</span>
+
 <p align="center"> **Address** </p>Campus Box 1063<br>One Brookings Drive<br>St. Louis, MO 63130
 
 #### Office
