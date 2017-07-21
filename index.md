@@ -12,7 +12,7 @@ bigimg:
   - "/img/stl2.JPG": "St. Louis"
 ---
 
-<img align="right" height="445px" width="400px" margin-right="50px" src="/img/profile.JPG" />
+<img src="/img/profile.JPG" class="wrap align-right">
 
 Hi! I am Jonathan Homola, a fourth year graduate student in the Department of Political Science at <a href="http://polisci.wustl.edu/" target="_blank">Washington University in St. Louis</a>. I am a comparativist and a political methodologist. My substantive research interests include party competition, representation, public opinion, and the role of women in politics. My regional areas of expertise are Western democracies and Eastern Europe. Methodologically, I am interested in Bayesian research methods, survival models, survey methodology, and causal inference.
 
