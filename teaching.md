@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Teaching Experience"
+use-mix-title: true
 ---
 
 ### Washington University in St. Louis
