@@ -7,4 +7,4 @@ title: "Contact"
 
 <p align="center"><b>Office</b><br>Seigle Hall 277</p>
 
-<p align="center"><b>Email</b><br>[homola@wustl.edu](mailto:homola@wustl.edu "Email")</p>
+<p align="center"><b>Email</b><br><a href="mailto:homola@wustl.edu">homola@wustl.edu</a></p>
