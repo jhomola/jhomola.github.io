@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Research"
+use-mix-title: true
 ---
 You can find my Google Scholar profile <a href="https://scholar.google.com/citations?user=aSE6nxMAAAAJ" target="_blank">here.</a>
 
