@@ -1,6 +1,7 @@
 ---
 layout: minimal
 title: "Abstracts"
+use-mix-title: true
 ---
 
 ### <a name="separate"></a>Homola, Jonathan. The Electoral Consequences of Separate Voting.
