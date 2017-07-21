@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Contact"
+use-mix-title: true
 ---
 
 <p align="center"><b>Address</b><br>Washington University in St. Louis<br>Department of Political Science<br>Campus Box 1063<br>One Brookings Drive<br>St. Louis, MO 63130</p>
