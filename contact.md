@@ -3,13 +3,11 @@ layout: page
 title: "Contact"
 ---
 
-### Address
-Campus Box 1063
-One Brookings Drive
-St. Louis, MO 63130
+##### Address
+Campus Box 1063<br>One Brookings Drive<br>St. Louis, MO 63130
 
-### Office
+##### Office
 Seigle Hall 277
 
-### Email
+##### Email
 [homola@wustl.edu](mailto:homola@wustl.edu "Email")
