@@ -2,17 +2,17 @@
 layout: page
 title: "Research"
 ---
-You can find my Google Scholar profile <a href="https://scholar.google.com/citations?user=aSE6nxMAAAAJ" target="_blank">here.</a> <br> Information on my activities as a reviewer can be found on my Publons profile <a href="https://publons.com/a/1249053/" target="_blank">here.</a>
+You can find my Google Scholar profile <a href="https://scholar.google.com/citations?user=aSE6nxMAAAAJ" target="_blank">here.</a>
 
-# Publications
+Information on my activities as a reviewer can be found on my Publons profile <a href="https://publons.com/a/1249053/" target="_blank">here.</a>
+
+# Articles
 
 Homola, Jonathan. Forthcoming. "Are Parties Equally Responsive to Women and Men?" *British Journal of Political Science*.
 
 Butler, Daniel M., and Jonathan Homola. 2017. "An Empirical Justification for the Use of Racially Distinctive Names to Signal Race in Experiments." *Political Analysis* 25: 122-130. [Link](https://doi.org/10.1017/pan.2016.15 "Political Analysis")
 
 Homola, Jonathan, Natalie Jackson, and Jeff Gill. 2016. "A measure of survey mode differences." *Electoral Studies* 44: 255-274. [Link](http://dx.doi.org/10.1016/j.electstud.2016.06.010 "Electoral Studies")
-
-Gill, Jeff, and Jonathan Homola. 2016. "Issues in Polling Methodologies: Inference and Uncertainty." In: Lonna Rae Atkinson and R. Michael Alvarez (eds.): *The Oxford Handbook of Polling and Polling Methods*. Oxford: Oxford University Press. [Link](http://dx.doi.org/10.1093/oxfordhb/9780190213299.013.11 "OUP Handbooks")
 
 Ezrow, Lawrence, Jonathan Homola, and Margit Tavits. 2014. "When Extremism Pays: Policy Positions, Voter Certainty, and Party Support in Postcommunist Europe." *Journal of Politics* 76: 535-547. [Link](http://dx.doi.org/10.1017/S0022381613001461 "Journal of Politics")
  * APSA Comparative Politics Newsletter, Fall 2014: "Party Positioning and Election Outcomes: Comparing Post-Communist Europe to Established Democracies." [Link](http://charlescrabtree.com/archived_newsletters/2014_fall.pdf "Comparative Politics Newsletter")
@@ -21,6 +21,10 @@ Ezrow, Lawrence, Margit Tavits, and Jonathan Homola. 2014. "Voter Polarization, 
  * Washington Post, Monkey Cage, August 15, 2014: "When does polarization matter?" [Link](http://www.washingtonpost.com/blogs/monkey-cage/wp/2014/08/15/when-does-polarization-matter/ "Washington Post/Monkey Cage")
 
 Budge, Ian, and Jonathan Homola. 2012. "How Far Have European Political Parties Followed the Americans to the Right in the Later Post-War Period? A Textual Analysis." *Cambio* 2: 71-86. [Link](http://dx.doi.org/10.13128/cambio-19435 "Cambio")
+
+# Book Chapters
+
+Gill, Jeff, and Jonathan Homola. 2016. "Issues in Polling Methodologies: Inference and Uncertainty." In: Lonna Rae Atkinson and R. Michael Alvarez (eds.): *The Oxford Handbook of Polling and Polling Methods*. Oxford: Oxford University Press. [Link](http://dx.doi.org/10.1093/oxfordhb/9780190213299.013.11 "OUP Handbooks")
 
 # Work in Progress
 
