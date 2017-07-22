@@ -22,7 +22,7 @@ description: PhD Student in Political Science at Washington University in St. Lo
 # List of links in the navigation bar
 navbar-links:
   Home: "http://jhomola.com"
-  CV: "files/cv_homola.pdf"
+  CV: "files/cv_homola.pdf?pdf=cv"
   Research: "research"
   Teaching: "teaching"
   Software: "software"
