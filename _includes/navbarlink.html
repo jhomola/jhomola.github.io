@@ -14,7 +14,7 @@
 {% endif %}
 
 {% if include.link[0] == "CV" %}
-   <a href="{{ linkurl }}" target="_blank">{{ include.link[0] }}</a>
+   <a href="{{ linkurl }}" target="_blank" onclick="ga('send', 'event', 'PDF', 'Download', 'CV');">CV</a>
 {% else %}
 <a href="{{ linkurl }}">{{ include.link[0] }}</a>
 {% endif %}
