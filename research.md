@@ -2,7 +2,7 @@
 layout: page
 title: "Research"
 use-mix-title: true
-description: Publications, working papers, links to abstracts, Google Scholar and Publons.
+description: List of articles, book chapters, working papers. Links to abstracts, Google Scholar and Publons.
 bigimg: "/img/weimar.jpg"
 ---
 You can find my Google Scholar profile <a href="https://scholar.google.com/citations?user=aSE6nxMAAAAJ" target="_blank">here.</a>
