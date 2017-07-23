@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Contact"
+description: Contact information at Washington University in St. Louis.
 use-mix-title: true
 ---
 
