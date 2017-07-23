@@ -2,7 +2,7 @@
 layout: page
 title: "Software"
 use-mix-title: true
-bigimg: "/img/jags2.jpg"
+bigimg: "/img/jags.jpg"
 ---
 
 #### [BaM](https://cran.r-project.org/package=BaM "BaM on CRAN") (author)
