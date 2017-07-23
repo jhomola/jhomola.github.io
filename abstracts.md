@@ -1,6 +1,7 @@
 ---
 layout: minimal
 title: "Abstracts"
+description: Here you can find abstracts of my papers that are currently under review or work in progress.
 use-mix-title: true
 ---
 
