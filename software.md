@@ -2,6 +2,7 @@
 layout: page
 title: "Software"
 use-mix-title: true
+description: List of R packages that I have contributed to.
 bigimg: "/img/jags.jpg"
 ---
 
