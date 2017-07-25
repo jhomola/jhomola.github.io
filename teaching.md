@@ -3,6 +3,7 @@ layout: page
 title: "Teaching Experience"
 description: Overview of my teaching experience as an instructor and teaching assistant.
 use-mix-title: true
+bigimg: "/img/washu1.jpg"
 ---
 
 ### Washington University in St. Louis
