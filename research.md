@@ -13,7 +13,7 @@ Information on my activities as a reviewer can be found on my Publons profile <a
 
 # Articles
 
-Homola, Jonathan. Forthcoming. "Are Parties Equally Responsive to Women and Men?" *British Journal of Political Science*. [Replication](http://dx.doi.org/10.7910/DVN/K1TVXL "Replication Files")
+Homola, Jonathan. Forthcoming. "Are Parties Equally Responsive to Women and Men?" *British Journal of Political Science*. [[Replication]](http://dx.doi.org/10.7910/DVN/K1TVXL "Replication Files")
 
 Butler, Daniel M., and Jonathan Homola. 2017. "An Empirical Justification for the Use of Racially Distinctive Names to Signal Race in Experiments." *Political Analysis* 25: 122-130. [Link](https://doi.org/10.1017/pan.2016.15 "Political Analysis") [Replication](http://dx.doi.org/10.7910/DVN/LUGBL1 "Replication Files")
 
