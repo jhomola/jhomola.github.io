@@ -5,11 +5,11 @@ use-mix-title: true
 description: List of articles, book chapters, working papers. Links to abstracts, Google Scholar and Publons.
 bigimg: "/img/weimar.jpg"
 ---
-You can find my Google Scholar profile <a href="https://scholar.google.com/citations?user=aSE6nxMAAAAJ" target="_blank">here.</a>
+You can find my Google Scholar profile <a href="https://scholar.google.com/citations?user=aSE6nxMAAAAJ" target="_blank">[here.]</a>
 
-Replication data for my publications is available from my dataverse <a href="https://dataverse.harvard.edu/dataverse/jhomola" target="_blank">here.</a>
+Replication data for my publications is available from my dataverse <a href="https://dataverse.harvard.edu/dataverse/jhomola" target="_blank">[here.]</a>
 
-Information on my activities as a reviewer can be found on my Publons profile <a href="https://publons.com/a/1249053/" target="_blank">here.</a>
+Information on my activities as a reviewer can be found on my Publons profile <a href="https://publons.com/a/1249053/" target="_blank">[here.]</a>
 
 # Articles
 
