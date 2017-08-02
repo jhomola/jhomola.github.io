@@ -26,6 +26,8 @@ bigimg: "/img/washu1.jpg"
   * Jacob Montgomery, Spring 2016
 * Longitudinal and Event History Models for the Social and Political Sciences
   * Jeff Gill, Spring 2017
+* Texts as Data
+  * Justin Grimmer, Summer 2017
 
 ### University of Essex
 #### Essex Summer School in Social Science Data Analysis
