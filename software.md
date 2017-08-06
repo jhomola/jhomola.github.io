@@ -11,9 +11,12 @@ bigimg: "/img/jags.jpg"
 * Authors: Jonathan Homola, Danielle Korman, Jacob Metz, Miguel Pereira, Mauricio Vela, and Jeff Gill
 * [Link](https://cran.r-project.org/package=BaM "BaM on CRAN")
 
+<p style="text-align: center;">
 |Version|Monthly Downloads|Total Downloads|
 |----------|------------|------------|
 |[![CRAN version](http://www.r-pkg.org/badges/version/BaM)](https://CRAN.R-project.org/package=BaM)|[![](http://cranlogs.r-pkg.org/badges/BaM)](https://CRAN.R-project.org/package=BaM)|[![](http://cranlogs.r-pkg.org/badges/grand-total/BaM)](https://CRAN.R-project.org/package=BaM)|
+</p>
+
 
 #### [blockTools](https://cran.r-project.org/package=blockTools "blockTools on CRAN") (contributor)
 * The blockTools R package blocks units into experimental blocks, with one unit per treatment condition, by creating a measure of multivariate distance between all possible pairs of units.
