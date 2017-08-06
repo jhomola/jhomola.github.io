@@ -19,3 +19,7 @@ bigimg: "/img/jags.jpg"
 * The blockTools R package blocks units into experimental blocks, with one unit per treatment condition, by creating a measure of multivariate distance between all possible pairs of units.
 * Authors: Ryan T. Moore and Keith Schnakenberg
 * [Link](https://cran.r-project.org/package=blockTools "blockTools on CRAN")
+
+|Version|Monthly Downloads|Total Downloads|
+|----------|------------|------------|
+|[![CRAN version](http://www.r-pkg.org/badges/version/blockTools)](https://CRAN.R-project.org/package=blockTools)|[![](http://cranlogs.r-pkg.org/badges/blockTools)](https://CRAN.R-project.org/package=blockTools)|[![](http://cranlogs.r-pkg.org/badges/grand-total/blockTools)](https://CRAN.R-project.org/package=blockTools)|
