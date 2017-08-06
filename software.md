@@ -21,6 +21,6 @@ bigimg: "/img/jags.jpg"
 * Authors: Ryan T. Moore and Keith Schnakenberg
 * [Link](https://cran.r-project.org/package=blockTools "blockTools on CRAN")
 
-|Version|Monthly Downloads|Total Downloads|
-|----------|------------|------------|
-|[![CRAN version](http://www.r-pkg.org/badges/version/blockTools)](https://CRAN.R-project.org/package=blockTools)|[![](http://cranlogs.r-pkg.org/badges/blockTools)](https://CRAN.R-project.org/package=blockTools)|[![](http://cranlogs.r-pkg.org/badges/grand-total/blockTools)](https://CRAN.R-project.org/package=blockTools)|
+|Version|Downloads Last Week|Total Downloads|
+|----------|----------------|------------|
+|[![CRAN version](http://www.r-pkg.org/badges/version/blockTools)](https://CRAN.R-project.org/package=blockTools)|[![](http://cranlogs.r-pkg.org/badges/last-week/blockTools)](https://CRAN.R-project.org/package=blockTools)|[![](http://cranlogs.r-pkg.org/badges/grand-total/blockTools)](https://CRAN.R-project.org/package=blockTools)|
