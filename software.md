@@ -12,7 +12,7 @@ bigimg: "/img/jags.jpg"
 * [Link](https://cran.r-project.org/package=BaM "BaM on CRAN")
 
 |Version|Downloads Last Week|Total Downloads|
-|----------|------------|------------|
+|----------|----------------|------------|
 |[![CRAN version](http://www.r-pkg.org/badges/version/BaM)](https://CRAN.R-project.org/package=BaM)|[![](http://cranlogs.r-pkg.org/badges/last-week/BaM)](https://CRAN.R-project.org/package=BaM)|[![](http://cranlogs.r-pkg.org/badges/grand-total/BaM)](https://CRAN.R-project.org/package=BaM)|
 
 
