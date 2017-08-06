@@ -11,11 +11,11 @@ bigimg: "/img/jags.jpg"
 * Authors: Jonathan Homola, Danielle Korman, Jacob Metz, Miguel Pereira, Mauricio Vela, and Jeff Gill
 * [Link](https://cran.r-project.org/package=BaM "BaM on CRAN")
 
-<p style="text-align: center;">
+<center>
 |Version|Monthly Downloads|Total Downloads|
 |----------|------------|------------|
 |[![CRAN version](http://www.r-pkg.org/badges/version/BaM)](https://CRAN.R-project.org/package=BaM)|[![](http://cranlogs.r-pkg.org/badges/BaM)](https://CRAN.R-project.org/package=BaM)|[![](http://cranlogs.r-pkg.org/badges/grand-total/BaM)](https://CRAN.R-project.org/package=BaM)|
-</p>
+</center>
 
 
 #### [blockTools](https://cran.r-project.org/package=blockTools "blockTools on CRAN") (contributor)
