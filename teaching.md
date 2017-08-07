@@ -25,6 +25,7 @@ bigimg: "/img/washu1.jpg"
   * <a href="http://jhomola.com/files/Syll-Legislative.pdf" target="_blank">[Syllabus.]</a>
 * Introduction to Comparative Politics
   * Brian Crisp, Spring 2015
+  * <a href="http://jhomola.com/files/Syll-CP.pdf" target="_blank">[Syllabus.]</a>
   * <a href="http://jhomola.com/files/Evals.pdf#page=10" target="_blank">[Teaching Evaluations.]</a>
 * Generalized Linear Models
   * Jeff Gill, Fall 2015 & Fall 2016
