@@ -542,6 +542,15 @@ footer .theme-by {
   display: none;
 }
 @media only screen and (max-width: 365px) {
+  img.wrap {
+    max-width: 100%;
+    margin: 2px 0px;
+  }
+  img.align-right {
+    position:absolute;
+    left:1em;
+    right:1em;
+  }
   .header-section.has-img .intro-header.no-img {
     display: block;
   }
@@ -558,6 +567,15 @@ footer .theme-by {
   }  
 } 
 @media only screen and (max-width: 325px) { 
+  img.wrap {
+    max-width: 100%;
+    margin: 2px 0px;
+  }
+  img.align-right {
+    position:absolute;
+    left:1em;
+    right:1em;
+  }
   .intro-header.big-img {
     height: 200px;
   }
