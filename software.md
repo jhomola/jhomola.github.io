@@ -16,7 +16,6 @@ bigimg: "/img/jags.jpg"
 |[![CRAN version](http://www.r-pkg.org/badges/version/BaM)](https://CRAN.R-project.org/package=BaM)|[![](http://cranlogs.r-pkg.org/badges/BaM)](https://CRAN.R-project.org/package=BaM)|[![](http://cranlogs.r-pkg.org/badges/grand-total/BaM)](https://CRAN.R-project.org/package=BaM)|
 
 <br>
-<br>
 
 #### [blockTools](https://cran.r-project.org/package=blockTools "blockTools on CRAN") (contributor)
 * The blockTools R package blocks units into experimental blocks, with one unit per treatment condition, by creating a measure of multivariate distance between all possible pairs of units.
@@ -24,5 +23,5 @@ bigimg: "/img/jags.jpg"
 * [Link](https://cran.r-project.org/package=blockTools "blockTools on CRAN")
 
 |Version|Downloads Last Month|Total Downloads|
-|----------|----------------|------------|
+|:-------:|:--------------------:|:---------------:|
 |[![CRAN version](http://www.r-pkg.org/badges/version/blockTools)](https://CRAN.R-project.org/package=blockTools)|[![](http://cranlogs.r-pkg.org/badges/blockTools)](https://CRAN.R-project.org/package=blockTools)|[![](http://cranlogs.r-pkg.org/badges/grand-total/blockTools)](https://CRAN.R-project.org/package=blockTools)|
