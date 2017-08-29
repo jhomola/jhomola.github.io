@@ -39,6 +39,8 @@ Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, and Patrick Tu
 
 Homola, Jonathan, and Margit Tavits. Perceived Threats about Immigration. *Under Review*. [[Abstract]](http://jhomola.com/abstracts#threats)
 
+Homola, Jonathan. The Political Consequences of Group-Based Identities. [[Abstract]](http://jhomola.com/abstracts#separate)
+
 Homola, Jonathan, Jon C. Rogowski, Betsy Sinclair, Michelle Torres, and Patrick Tucker. Through the Ideology of the Beholder: Partisan Perceptions and Polarization Among the Mass Public. [[Abstract]](http://jhomola.com/abstracts#ideology)
 
-Homola, Jonathan. The Political Consequences of Group-Based Identities. [[Abstract]](http://jhomola.com/abstracts#separate)
+Homola, Jonathan and Jeff Gill. A New Class of Bayesian Frailty Models. [[Abstract]](http://jhomola.com/abstracts#frailty)
