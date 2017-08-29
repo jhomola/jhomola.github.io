@@ -43,4 +43,6 @@ Homola, Jonathan. The Political Consequences of Group-Based Identities. [[Abstra
 
 Homola, Jonathan, Jon C. Rogowski, Betsy Sinclair, Michelle Torres, and Patrick Tucker. Through the Ideology of the Beholder: Partisan Perceptions and Polarization Among the Mass Public. [[Abstract]](http://jhomola.com/abstracts#ideology)
 
-Homola, Jonathan and Jeff Gill. A New Class of Bayesian Frailty Models. [[Abstract]](http://jhomola.com/abstracts#frailty)
+Homola, Jonathan, and Jeff Gill. A New Class of Bayesian Frailty Models. [[Abstract]](http://jhomola.com/abstracts#frailty)
+
+Homola, Jonathan. Individual Minister Survival of Women and Men in a Multilevel Context.
