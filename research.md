@@ -15,6 +15,8 @@ Information on my activities as a reviewer can be found on my Publons profile <a
 
 Homola, Jonathan. Forthcoming. "Are Parties Equally Responsive to Women and Men?" *British Journal of Political Science*. [[Abstract]](http://jhomola.com/abstracts#responsiveness) [[Replication]](http://dx.doi.org/10.7910/DVN/K1TVXL "Replication Files")
 
+Homola, Jonathan, and Margit Tavits. Forthcoming. "Contact Reduces Immigration-Related Fears for Leftist but Not for Rightist Voters." *Comparative Political Studies*. [[Abstract]](http://jhomola.com/abstracts#contact) [[Replication]](http://dx.doi.org/10.7910/DVN/THNDTR "Replication Files")
+
 Butler, Daniel M., and Jonathan Homola. 2017. "An Empirical Justification for the Use of Racially Distinctive Names to Signal Race in Experiments." *Political Analysis* 25: 122-130. [[Link]](https://doi.org/10.1017/pan.2016.15 "Political Analysis") <a href="http://jhomola.com/files/ButlerHomola_2017_PA_Excludability_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](http://dx.doi.org/10.7910/DVN/LUGBL1 "Replication Files")
 
 Homola, Jonathan, Natalie Jackson, and Jeff Gill. 2016. "A measure of survey mode differences." *Electoral Studies* 44: 255-274. [[Link]](http://dx.doi.org/10.1016/j.electstud.2016.06.010 "Electoral Studies") [[Replication]](http://dx.doi.org/10.7910/DVN/BHEM8T "Replication Files")
@@ -33,12 +35,10 @@ Gill, Jeff, and Jonathan Homola. 2016. "Issues in Polling Methodologies: Inferen
 
 # Work in Progress
 
-Homola, Jonathan, Jon C. Rogowski, Betsy Sinclair, Michelle Torres, and Patrick Tucker. Through the Ideology of the Beholder: Partisan Perceptions and Polarization Among the Mass Public. *Revise and Resubmit*. [[Abstract]](http://jhomola.com/abstracts#ideology)
-
-Homola, Jonathan, and Margit Tavits. Contact Reduces Immigration-Related Fears for Leftist but Not for Rightist Voters. *Revise and Resubmit*. [[Abstract]](http://jhomola.com/abstracts#contact) [[Replication]](http://dx.doi.org/10.7910/DVN/THNDTR "Replication Files")
-
 Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, and Patrick Tucker. The Dynamic Relationship between Personality Stability and Political Attitudes. *Revise and Resubmit*. [[Abstract]](http://jhomola.com/abstracts#tipi)
 
 Homola, Jonathan, and Margit Tavits. Perceived Threats about Immigration. *Under Review*. [[Abstract]](http://jhomola.com/abstracts#threats)
 
-Homola, Jonathan. The Electoral Consequences of Separate Voting. [[Abstract]](http://jhomola.com/abstracts#separate)
+Homola, Jonathan, Jon C. Rogowski, Betsy Sinclair, Michelle Torres, and Patrick Tucker. Through the Ideology of the Beholder: Partisan Perceptions and Polarization Among the Mass Public. [[Abstract]](http://jhomola.com/abstracts#ideology)
+
+Homola, Jonathan. The Political Consequences of Group-Based Identities. [[Abstract]](http://jhomola.com/abstracts#separate)
