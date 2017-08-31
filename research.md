@@ -13,7 +13,7 @@ Information on my activities as a reviewer can be found on my Publons profile <a
 
 # Articles
 
-Homola, Jonathan. Forthcoming. "Are Parties Equally Responsive to Women and Men?" *British Journal of Political Science*. [[Abstract]](http://jhomola.com/abstracts#responsiveness) [[Replication]](http://dx.doi.org/10.7910/DVN/K1TVXL "Replication Files")
+Homola, Jonathan. Forthcoming. "Are Parties Equally Responsive to Women and Men?" *British Journal of Political Science*. [[Link]](https://doi.org/10.1017/S0007123417000114 "British Journal of Political Science") [[Replication]](http://dx.doi.org/10.7910/DVN/K1TVXL "Replication Files")
 
 Homola, Jonathan, and Margit Tavits. Forthcoming. "Contact Reduces Immigration-Related Fears for Leftist but Not for Rightist Voters." *Comparative Political Studies*. [[Abstract]](http://jhomola.com/abstracts#contact) [[Replication]](http://dx.doi.org/10.7910/DVN/THNDTR "Replication Files")
 
