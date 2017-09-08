@@ -41,6 +41,8 @@ bigimg: "/img/washu1.jpg"
   * <a href="http://jhomola.com/files/Evals.pdf#page=28" target="_blank">[Teaching Evaluations.]</a>
 * Texts as Data
   * Justin Grimmer, Summer 2017
+  * <a href="http://jhomola.com/files/Syll-Text.pdf" target="_blank">[Syllabus.]</a>
+  * <a href="http://jhomola.com/files/Evals.pdf#page=35" target="_blank">[Teaching Evaluations.]</a>
 
 ### University of Essex
 #### Essex Summer School in Social Science Data Analysis
