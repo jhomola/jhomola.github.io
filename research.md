@@ -35,7 +35,7 @@ Gill, Jeff, and Jonathan Homola. 2016. "Issues in Polling Methodologies: Inferen
 
 # Work in Progress
 
-Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, and Patrick Tucker. The Dynamic Relationship between Personality Stability and Political Attitudes. *Revise and Resubmit*. [[Abstract]](http://jhomola.com/abstracts#tipi)
+Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, and Patrick Tucker. The Dynamic Relationship between Personality Stability and Political Attitudes. *Conditionally accepted at Public Opinion Quarterly*. [[Abstract]](http://jhomola.com/abstracts#tipi)
 
 Homola, Jonathan. The Political Consequences of Group-Based Identities. *Under Review*. [[Abstract]](http://jhomola.com/abstracts#separate)
 
