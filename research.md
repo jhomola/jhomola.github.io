@@ -39,10 +39,10 @@ Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, and Patrick Tu
 
 Homola, Jonathan. The Political Consequences of Group-Based Identities. *Under Review*. [[Abstract]](http://jhomola.com/abstracts#separate)
 
+Homola, Jonathan, and Jeff Gill. A Flexible Class of Bayesian Frailty Models For Political Science Data. *Under Review*. [[Abstract]](http://jhomola.com/abstracts#frailty)
+
 Homola, Jonathan, and Margit Tavits. Perceived Threats about Immigration. *Under Review*. [[Abstract]](http://jhomola.com/abstracts#threats)
 
 Homola, Jonathan, Jon C. Rogowski, Betsy Sinclair, Michelle Torres, and Patrick Tucker. Through the Ideology of the Beholder: Partisan Perceptions and Polarization Among the Mass Public. *Under Review*. [[Abstract]](http://jhomola.com/abstracts#ideology)
-
-Homola, Jonathan, and Jeff Gill. A New Class of Bayesian Frailty Models. [[Abstract]](http://jhomola.com/abstracts#frailty)
 
 Homola, Jonathan. Individual Minister Survival of Women and Men in a Multilevel Context. *Work in progress*.
