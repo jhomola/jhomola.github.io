@@ -17,6 +17,8 @@ Homola, Jonathan. Forthcoming. "Are Parties Equally Responsive to Women and Men?
 
 Homola, Jonathan, and Margit Tavits. Forthcoming. "Contact Reduces Immigration-Related Fears for Leftist but Not for Rightist Voters." *Comparative Political Studies*. [[Link]](https://doi.org/10.1177/0010414017740590 "Comparative Political Studies") <a href="http://jhomola.com/files/HomolaTavits_2017_CPS_ContactThreats_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](http://dx.doi.org/10.7910/DVN/THNDTR "Replication Files")
 
+Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, and Patrick Tucker. 2018. "The Dynamic Relationship between Personality Stability and Political Attitudes." *Public Opinion Quarterly* 82: 257-279. [[Link]](https://doi.org/10.1093/poq/nfy001 "Public Opinion Quarterly") [[Abstract]](http://jhomola.com/abstracts#tipi)
+
 Butler, Daniel M., and Jonathan Homola. 2017. "An Empirical Justification for the Use of Racially Distinctive Names to Signal Race in Experiments." *Political Analysis* 25: 122-130. [[Link]](https://doi.org/10.1017/pan.2016.15 "Political Analysis") <a href="http://jhomola.com/files/ButlerHomola_2017_PA_Excludability_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](http://dx.doi.org/10.7910/DVN/LUGBL1 "Replication Files")
 
 Homola, Jonathan, Natalie Jackson, and Jeff Gill. 2016. "A measure of survey mode differences." *Electoral Studies* 44: 255-274. [[Link]](http://dx.doi.org/10.1016/j.electstud.2016.06.010 "Electoral Studies") [[Replication]](http://dx.doi.org/10.7910/DVN/BHEM8T "Replication Files")
@@ -34,8 +36,6 @@ Budge, Ian, and Jonathan Homola. 2012. "How Far Have European Political Parties 
 Gill, Jeff, and Jonathan Homola. 2016. "Issues in Polling Methodologies: Inference and Uncertainty." In: Lonna Rae Atkinson and R. Michael Alvarez (eds.): *The Oxford Handbook of Polling and Polling Methods*. Oxford: Oxford University Press. [[Link]](http://dx.doi.org/10.1093/oxfordhb/9780190213299.013.11 "OUP Handbooks") [[Replication]](http://dx.doi.org/10.7910/DVN/X9NUOJ "Replication Files")
 
 # Work in Progress
-
-Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, and Patrick Tucker. The Dynamic Relationship between Personality Stability and Political Attitudes. *Conditionally accepted at Public Opinion Quarterly*. [[Abstract]](http://jhomola.com/abstracts#tipi)
 
 Homola, Jonathan. The Political Consequences of Group-Based Identities. *Under Review*. [[Abstract]](http://jhomola.com/abstracts#separate)
 
