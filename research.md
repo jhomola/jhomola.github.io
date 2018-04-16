@@ -17,7 +17,7 @@ Homola, Jonathan. Forthcoming. "Are Parties Equally Responsive to Women and Men?
 
 Homola, Jonathan, and Margit Tavits. Forthcoming. "Contact Reduces Immigration-Related Fears for Leftist but Not for Rightist Voters." *Comparative Political Studies*. [[Link]](https://doi.org/10.1177/0010414017740590 "Comparative Political Studies") <a href="http://jhomola.com/files/HomolaTavits_2017_CPS_ContactThreats_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](http://dx.doi.org/10.7910/DVN/THNDTR "Replication Files")
 
-Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, and Patrick Tucker. 2018. "The Dynamic Relationship between Personality Stability and Political Attitudes." *Public Opinion Quarterly* 82: 257-279. [[Link]](https://doi.org/10.1093/poq/nfy001 "Public Opinion Quarterly") [[Abstract]](http://jhomola.com/abstracts#tipi)
+Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, and Patrick D. Tucker. 2018. "The Dynamic Relationship between Personality Stability and Political Attitudes." *Public Opinion Quarterly* 82: 257-279. [[Link]](https://doi.org/10.1093/poq/nfy001 "Public Opinion Quarterly") [[Abstract]](http://jhomola.com/abstracts#tipi)
 
 Butler, Daniel M., and Jonathan Homola. 2017. "An Empirical Justification for the Use of Racially Distinctive Names to Signal Race in Experiments." *Political Analysis* 25: 122-130. [[Link]](https://doi.org/10.1017/pan.2016.15 "Political Analysis") <a href="http://jhomola.com/files/ButlerHomola_2017_PA_Excludability_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](http://dx.doi.org/10.7910/DVN/LUGBL1 "Replication Files")
 
@@ -43,6 +43,6 @@ Homola, Jonathan, and Jeff Gill. A Flexible Class of Bayesian Frailty Models For
 
 Homola, Jonathan, and Margit Tavits. Perceived Threats about Immigration. *Under Review*. [[Abstract]](http://jhomola.com/abstracts#threats)
 
-Homola, Jonathan, Jon C. Rogowski, Betsy Sinclair, Michelle Torres, and Patrick Tucker. Through the Ideology of the Beholder: Partisan Perceptions and Polarization Among the Mass Public. *Under Review*. [[Abstract]](http://jhomola.com/abstracts#ideology)
+Homola, Jonathan, Jon C. Rogowski, Betsy Sinclair, Michelle Torres, and Patrick D. Tucker. Through the Ideology of the Beholder: Partisan Perceptions and Polarization Among the Mass Public. *Under Review*. [[Abstract]](http://jhomola.com/abstracts#ideology)
 
 Homola, Jonathan. Individual Minister Survival of Women and Men in a Multilevel Context. *Work in progress*.
