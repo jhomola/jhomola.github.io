@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contact"
-description: Contact information at Washington University in St. Louis.
+description: Contact information at Rice University.
 use-mix-title: true
 ---
 
