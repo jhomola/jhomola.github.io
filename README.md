@@ -1,1 +1,1 @@
-Jonathan Homola | PhD Student
+Jonathan Homola | Assistant Professor
