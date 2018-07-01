@@ -37,12 +37,16 @@ Gill, Jeff, and Jonathan Homola. 2016. "Issues in Polling Methodologies: Inferen
 
 # Work in Progress
 
-Homola, Jonathan. The Political Consequences of Group-Based Identities. *Under Review*. [[Abstract]](http://jhomola.com/abstracts#separate)
+Homola, Jonathan. The Political Consequences of Group-Based Identities. [[Abstract]](http://jhomola.com/abstracts#separate)
 
-Homola, Jonathan, and Jeff Gill. A Flexible Class of Bayesian Frailty Models For Political Science Data. *Under Review*. [[Abstract]](http://jhomola.com/abstracts#frailty)
+Homola, Jonathan, and Jeff Gill. A Flexible Class of Bayesian Frailty Models For Political Science Data. [[Abstract]](http://jhomola.com/abstracts#frailty)
 
 Homola, Jonathan, and Margit Tavits. Perceived Threats about Immigration. *Under Review*. [[Abstract]](http://jhomola.com/abstracts#threats)
 
-Homola, Jonathan, Jon C. Rogowski, Betsy Sinclair, Michelle Torres, and Patrick D. Tucker. Through the Ideology of the Beholder: Partisan Perceptions and Polarization Among the Mass Public. *Under Review*. [[Abstract]](http://jhomola.com/abstracts#ideology)
+Homola, Jonathan, Jon C. Rogowski, Betsy Sinclair, Michelle Torres, and Patrick D. Tucker. Through the Ideology of the Beholder: Partisan Perceptions and Polarization Among the Mass Public. [[Abstract]](http://jhomola.com/abstracts#ideology)
+
+Homola, Jonathan, Miguel M. Pereira, William Simoneau, and Margit Tavits. Legacies of the Third Reich: Concentration Camps and Outgroup Intolerance. [[Abstract]](http://jhomola.com/abstracts#camps)
 
 Homola, Jonathan. Individual Minister Survival of Women and Men in a Multilevel Context. *Work in progress*.
+
+Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, and Patrick Tucker. Casualties of the Culture Wars: Lifestyle Differences Between Democrats and Republicans. *Under Review*. [[Abstract]](http://jhomola.com/abstracts#lifestyles)
