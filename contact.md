@@ -9,4 +9,4 @@ use-mix-title: true
 
 <p align="center"><b>Office</b><br>108 Herzstein Hall</p>
 
-<p align="center"><b>Email</b><br><a href="mailto:homola@wustl.edu">homola@wustl.edu</a></p>
+<p align="center"><b>Email</b><br><a href="mailto:homola@rice.edu">homola@rice.edu</a></p>
