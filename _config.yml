@@ -42,7 +42,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Jonathan Homola
-  email: "homola@wustl.edu"
+  email: "homola@rice.edu"
   github: jhomola
   twitter: j_homola
   google-plus: aSE6nxMAAAAJ  # (programmed hack in footer file to make it googlescholar)
