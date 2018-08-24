@@ -33,7 +33,7 @@ Budge, Ian, and Jonathan Homola. 2012. "How Far Have European Political Parties 
 
 # Book Chapters
 
-Gill, Jeff, and Jonathan Homola. 2016. "Issues in Polling Methodologies: Inference and Uncertainty." In: Lonna Rae Atkinson and R. Michael Alvarez (eds.): *The Oxford Handbook of Polling and Polling Methods*. Oxford: Oxford University Press. [[Link]](http://dx.doi.org/10.1093/oxfordhb/9780190213299.013.11 "OUP Handbooks") [[Replication]](http://dx.doi.org/10.7910/DVN/X9NUOJ "Replication Files")
+Gill, Jeff, and Jonathan Homola. 2018. "Issues in Polling Methodologies: Inference and Uncertainty." In: Lonna Rae Atkinson and R. Michael Alvarez (eds.): *The Oxford Handbook of Polling and Polling Methods*. Oxford: Oxford University Press: 275-298. [[Link]](http://dx.doi.org/10.1093/oxfordhb/9780190213299.013.11 "OUP Handbooks") [[Replication]](http://dx.doi.org/10.7910/DVN/X9NUOJ "Replication Files")
 
 # Work in Progress
 
@@ -45,7 +45,7 @@ Homola, Jonathan, and Margit Tavits. Perceived Threats about Immigration. *Under
 
 Homola, Jonathan, Jon C. Rogowski, Betsy Sinclair, Michelle Torres, and Patrick D. Tucker. Through the Ideology of the Beholder: Partisan Perceptions and Polarization Among the Mass Public. [[Abstract]](http://jhomola.com/abstracts#ideology)
 
-Homola, Jonathan, Miguel M. Pereira, William Simoneau, and Margit Tavits. Legacies of the Third Reich: Concentration Camps and Outgroup Intolerance. [[Abstract]](http://jhomola.com/abstracts#camps)
+Homola, Jonathan, Miguel M. Pereira, William Simoneau, and Margit Tavits. Legacies of the Third Reich: Concentration Camps and Outgroup Intolerance. *Under Review*. [[Abstract]](http://jhomola.com/abstracts#camps)
 
 Homola, Jonathan. Individual Minister Survival of Women and Men in a Multilevel Context. *Work in progress*.
 
