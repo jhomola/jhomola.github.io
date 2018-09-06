@@ -20,6 +20,7 @@ bigimg: "/img/washu1.jpg"
 * Bayesian Hierarchical Models
   * Jeff Gill, Spring 2018
   * <a href="http://jhomola.com/files/Syll-MLM.pdf" target="_blank">[Syllabus.]</a>
+  * <a href="http://jhomola.com/files/Evals-Harvard.pdf" target="_blank">[Teaching Evaluations.]</a>
 
 ### Washington University in St. Louis
 #### Instructor
