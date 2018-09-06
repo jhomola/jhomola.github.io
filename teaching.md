@@ -6,6 +6,11 @@ use-mix-title: true
 bigimg: "/img/washu1.jpg"
 ---
 
+### Harvard University
+#### Teaching Fellow
+* Bayesian Hierarchical Models
+  * Jeff Gill, Spring 2018
+
 ### Washington University in St. Louis
 #### Instructor
 * Introduction to (Statistical) Programming with R
