@@ -6,6 +6,15 @@ use-mix-title: true
 bigimg: "/img/washu1.jpg"
 ---
 
+### Rice University
+#### Undergraduate level
+* Western European Democracies
+  * Fall 2018
+  
+#### Graduate level
+* Representation in Contemporary Democracies
+  * Fall 2018
+
 ### Harvard University
 #### Teaching Fellow
 * Bayesian Hierarchical Models
