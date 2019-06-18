@@ -13,7 +13,8 @@ Information on my activities as a reviewer can be found on my Publons profile <a
 
 # Articles
 
-Homola, Jonathan. Forthcoming. "Are Parties Equally Responsive to Women and Men?" *British Journal of Political Science*. [[Link]](https://doi.org/10.1017/S0007123417000114 "British Journal of Political Science") <a href="http://jhomola.com/files/Homola_2017_BJPS_ResponsivenessWomenMen_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](http://dx.doi.org/10.7910/DVN/K1TVXL "Replication Files")
+Homola, Jonathan. 2019. "Are Parties Equally Responsive to Women and Men?" *British Journal of Political Science* 49: 957-975. [[Link]](https://doi.org/10.1017/S0007123417000114 "British Journal of Political Science") <a href="http://jhomola.com/files/Homola_2017_BJPS_ResponsivenessWomenMen_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](http://dx.doi.org/10.7910/DVN/K1TVXL "Replication Files")
+ * Süddeutsche Zeitung, Monkey Cage, February 24, 2018: "Volk und Vertreter" [[Link]](https://projekte.sueddeutsche.de/artikel/politik/bundestag-diese-abgeordneten-fehlen-e291979/ "Washington Post/Monkey Cage")
 
 Homola, Jonathan, and Margit Tavits. 2018. "Contact Reduces Immigration-Related Fears for Leftist but Not for Rightist Voters." *Comparative Political Studies* 51: 1789-1820. [[Link]](https://doi.org/10.1177/0010414017740590 "Comparative Political Studies") <a href="http://jhomola.com/files/HomolaTavits_2017_CPS_ContactThreats_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](http://dx.doi.org/10.7910/DVN/THNDTR "Replication Files")
 
