@@ -10,6 +10,8 @@ bigimg: "/img/washu1.jpg"
 #### Undergraduate level
 * Western European Democracies
   * Fall 2018
+* Parties & Voting Behavior
+  * Fall 2019
   
 #### Graduate level
 * Representation in Contemporary Democracies
