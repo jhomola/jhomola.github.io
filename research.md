@@ -40,7 +40,7 @@ Gill, Jeff, and Jonathan Homola. 2018. "Issues in Polling Methodologies: Inferen
 
 Homola, Jonathan. Partisanship and Perceived Threats about Immigration. *Under Review*. [[Abstract]](http://jhomola.com/abstracts#threats)
 
-Homola, Jonathan, Miguel M. Pereira, William Simoneau, and Margit Tavits. Legacies of the Third Reich: Concentration Camps and Outgroup Intolerance. *Revise & Resubmit*. [[Abstract]](http://jhomola.com/abstracts#camps)
+Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. Legacies of the Third Reich: Concentration Camps and Outgroup Intolerance. *Revise & Resubmit*. [[Abstract]](http://jhomola.com/abstracts#camps)
 
 Homola, Jonathan. The Political Consequences of Group-Based Identities. [[Abstract]](http://jhomola.com/abstracts#separate)
 
