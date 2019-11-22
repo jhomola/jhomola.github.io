@@ -38,9 +38,10 @@ Gill, Jeff, and Jonathan Homola. 2018. "Issues in Polling Methodologies: Inferen
 
 # Work in Progress
 
-Homola, Jonathan. Partisanship and Perceived Threats about Immigration. *Under Review*. [[Abstract]](http://jhomola.com/abstracts#threats)
+Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. Legacies of the Third Reich: Concentration Camps and Outgroup Intolerance. *Conditionally Accepted at the American Political Science Review*. [[Abstract]](http://jhomola.com/abstracts#camps)
+* Winner of the Sage Best Paper Award (for the best comparative politics paper presented at the 2018 APSA annual conference)
 
-Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. Legacies of the Third Reich: Concentration Camps and Outgroup Intolerance. *Revise & Resubmit*. [[Abstract]](http://jhomola.com/abstracts#camps)
+Homola, Jonathan. Partisanship and Perceived Threats about Immigration. *Under Review*. [[Abstract]](http://jhomola.com/abstracts#threats)
 
 Homola, Jonathan. The Political Consequences of Group-Based Identities. [[Abstract]](http://jhomola.com/abstracts#separate)
 
@@ -49,3 +50,5 @@ Homola, Jonathan, and Jeff Gill. A Flexible Class of Bayesian Frailty Models For
 Homola, Jonathan, Jon C. Rogowski, Betsy Sinclair, Michelle Torres, and Patrick D. Tucker. Through the Ideology of the Beholder: Partisan Perceptions and Polarization Among the Mass Public. [[Abstract]](http://jhomola.com/abstracts#ideology)
 
 Homola, Jonathan. Individual Minister Survival of Women and Men in a Multilevel Context. *Work in progress*.
+
+Torres, Michelle, and Jonathan Homola. The Shades and Shapes of the Pink Wave: Visual Perspectives of the Women's March. *Work in progress*.
