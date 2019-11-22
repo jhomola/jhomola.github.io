@@ -43,6 +43,8 @@ Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. Legacies of the Third Re
 
 Homola, Jonathan. Partisanship and Perceived Threats about Immigration. *Under Review*. [[Abstract]](http://jhomola.com/abstracts#threats)
 
+Homola, Jonathan. The Effect of Female Cabinet Ministers on Pledge Fulfillment. [[Abstract]](http://jhomola.com/abstracts#pledges)
+
 Homola, Jonathan. The Political Consequences of Group-Based Identities. [[Abstract]](http://jhomola.com/abstracts#separate)
 
 Homola, Jonathan, and Jeff Gill. A Flexible Class of Bayesian Frailty Models For Political Science Data. [[Abstract]](http://jhomola.com/abstracts#frailty)
