@@ -38,7 +38,7 @@ Gill, Jeff, and Jonathan Homola. 2018. "Issues in Polling Methodologies: Inferen
 
 # Work in Progress
 
-Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. Legacies of the Third Reich: Concentration Camps and Outgroup Intolerance. *Conditionally Accepted at the American Political Science Review*. [[Abstract]](http://jhomola.com/abstracts#camps)
+Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. Legacies of the Third Reich: Concentration Camps and Outgroup Intolerance. *Conditionally Accepted at the American Political Science Review*. [[Abstract]](http://jhomola.com/abstracts#camps) <a href="http://jhomola.com/files/HomolaPereiraTavits_2020_APSR_Legacies_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/J0GBTX "Replication Files")
 * Winner of the Sage Best Paper Award (for the best comparative politics paper presented at the 2018 APSA annual conference)
  * APSA Comparative Politics Newsletter, Fall 2019: "Q&A -- Legacies of the Third Reich: Concentration Camps and Outgroup Intolerance" [[Link]](https://www.comparativepoliticsnewsletter.org/wp-content/uploads/2019/12/CP-Newsletter-Fall-19-CP-and-History.pdf "Comparative Politics Newsletter")
 
