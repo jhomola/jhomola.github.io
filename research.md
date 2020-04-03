@@ -42,7 +42,7 @@ Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. Legacies of the Third Re
 * Winner of the Sage Best Paper Award (for the best comparative politics paper presented at the 2018 APSA annual conference)
  * APSA Comparative Politics Newsletter, Fall 2019: "Q&A -- Legacies of the Third Reich: Concentration Camps and Outgroup Intolerance" [[Link]](https://www.comparativepoliticsnewsletter.org/wp-content/uploads/2019/12/CP-Newsletter-Fall-19-CP-and-History.pdf "Comparative Politics Newsletter")
 
-Homola, Jonathan. Partisanship and Perceived Threats about Immigration. *Revise & Resubmit*. [[Abstract]](http://jhomola.com/abstracts#threats)
+Homola, Jonathan. Partisanship and Perceived Threats about Immigration. *Revise & Resubmit*. [[Abstract]](http://jhomola.com/abstracts#threats) <a href="http://jhomola.com/files/Homola_2020_PP_ImmigrationFrames_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/L2JYUS "Replication Files")
 
 Homola, Jonathan. The Effect of Female Cabinet Ministers on Pledge Fulfillment. *Under Review*. [[Abstract]](http://jhomola.com/abstracts#pledges)
 
