@@ -13,6 +13,12 @@ Information on my activities as a reviewer can be found on my Publons profile <a
 
 # Articles
 
+Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. Forthcoming. Legacies of the Third Reich: Concentration Camps and Outgroup Intolerance. *American Political Science Review*. [[Link]](https://doi.org/10.1017/S0003055419000832) <a href="http://jhomola.com/files/HomolaPereiraTavits_2020_APSR_Legacies_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/J0GBTX "Replication Files")
+* Winner of the Sage Best Paper Award (for the best comparative politics paper presented at the 2018 APSA annual conference)
+ * APSA Comparative Politics Newsletter, Fall 2019: "Q&A -- Legacies of the Third Reich: Concentration Camps and Outgroup Intolerance" [[Link]](https://www.comparativepoliticsnewsletter.org/wp-content/uploads/2019/12/CP-Newsletter-Fall-19-CP-and-History.pdf "Comparative Politics Newsletter")
+
+Homola, Jonathan. Forthcoming. "Partisanship and Perceived Threats about Immigration." *Party Politics*. [[Link]](https://doi.org/10.1177%2F1354068820918773 "Party Politics") <a href="http://jhomola.com/files/Homola_2020_PP_ImmigrationFrames_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/L2JYUS "Replication Files")
+
 Homola, Jonathan. 2019. "Are Parties Equally Responsive to Women and Men?" *British Journal of Political Science* 49: 957-975. [[Link]](https://doi.org/10.1017/S0007123417000114 "British Journal of Political Science") <a href="http://jhomola.com/files/Homola_2017_BJPS_ResponsivenessWomenMen_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](http://dx.doi.org/10.7910/DVN/K1TVXL "Replication Files")
  * Süddeutsche Zeitung, February 24, 2018: "Volk und Vertreter" [[Link]](https://projekte.sueddeutsche.de/artikel/politik/bundestag-diese-abgeordneten-fehlen-e291979/ "Washington Post/Monkey Cage")
 
@@ -38,13 +44,7 @@ Gill, Jeff, and Jonathan Homola. 2018. "Issues in Polling Methodologies: Inferen
 
 # Work in Progress
 
-Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. Legacies of the Third Reich: Concentration Camps and Outgroup Intolerance. *Conditionally Accepted at the American Political Science Review*. [[Abstract]](http://jhomola.com/abstracts#camps) <a href="http://jhomola.com/files/HomolaPereiraTavits_2020_APSR_Legacies_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/J0GBTX "Replication Files")
-* Winner of the Sage Best Paper Award (for the best comparative politics paper presented at the 2018 APSA annual conference)
- * APSA Comparative Politics Newsletter, Fall 2019: "Q&A -- Legacies of the Third Reich: Concentration Camps and Outgroup Intolerance" [[Link]](https://www.comparativepoliticsnewsletter.org/wp-content/uploads/2019/12/CP-Newsletter-Fall-19-CP-and-History.pdf "Comparative Politics Newsletter")
-
-Homola, Jonathan. Partisanship and Perceived Threats about Immigration. *Revise & Resubmit*. [[Abstract]](http://jhomola.com/abstracts#threats) <a href="http://jhomola.com/files/Homola_2020_PP_ImmigrationFrames_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/L2JYUS "Replication Files")
-
-Homola, Jonathan. The Effect of Female Cabinet Ministers on Pledge Fulfillment. *Under Review*. [[Abstract]](http://jhomola.com/abstracts#pledges)
+Homola, Jonathan. The Effect of Female Cabinet Ministers on Pledge Fulfillment. *Revise & Resubmit*. [[Abstract]](http://jhomola.com/abstracts#pledges)
 
 Homola, Jonathan. The Political Consequences of Group-Based Identities. [[Abstract]](http://jhomola.com/abstracts#separate)
 
