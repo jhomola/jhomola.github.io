@@ -13,7 +13,7 @@ Information on my activities as a reviewer can be found on my Publons profile <a
 
 # Articles
 
-Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. Forthcoming. "Legacies of the Third Reich: Concentration Camps and Outgroup Intolerance." *American Political Science Review*. [[Link]](https://doi.org/10.1017/S0003055419000832) <a href="http://jhomola.com/files/HomolaPereiraTavits_2020_APSR_Legacies_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/J0GBTX "Replication Files")
+Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. 2020. "Legacies of the Third Reich: Concentration Camps and Outgroup Intolerance." *American Political Science Review* 114: 573-590. [[Link]](https://doi.org/10.1017/S0003055419000832) <a href="http://jhomola.com/files/HomolaPereiraTavits_2020_APSR_Legacies_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/J0GBTX "Replication Files")
 * Winner of the Sage Best Paper Award (for the best comparative politics paper presented at the 2018 APSA annual conference)
  * APSA Comparative Politics Newsletter, Fall 2019: "Q&A -- Legacies of the Third Reich: Concentration Camps and Outgroup Intolerance" [[Link]](https://www.comparativepoliticsnewsletter.org/wp-content/uploads/2019/12/CP-Newsletter-Fall-19-CP-and-History.pdf "Comparative Politics Newsletter")
 
@@ -51,6 +51,8 @@ Homola, Jonathan. The Political Consequences of Group-Based Identities. [[Abstra
 Homola, Jonathan, and Jeff Gill. A Flexible Class of Bayesian Frailty Models For Political Science Data. [[Abstract]](http://jhomola.com/abstracts#frailty)
 
 Homola, Jonathan, Jon C. Rogowski, Betsy Sinclair, Michelle Torres, and Patrick D. Tucker. Through the Ideology of the Beholder: Partisan Perceptions and Polarization Among the Mass Public. [[Abstract]](http://jhomola.com/abstracts#ideology)
+
+Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. Fixed Effects and Post-Treatment Bias in Legacy Studies. [[OSF Preprint]](https://osf.io/b945a/)
 
 Homola, Jonathan. Individual Minister Survival of Women and Men in a Multilevel Context. *Work in progress*.
 
