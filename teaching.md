@@ -11,7 +11,7 @@ bigimg: "/img/washu1.jpg"
 * Introduction to Comparative Politics
   * Fall 2020
 * Western European Democracies
-  * Fall 2018
+  * Fall 2018, Fall 2020
 * Parties & Voting Behavior
   * Fall 2019, Spring 2021
   
