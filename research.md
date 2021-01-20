@@ -13,11 +13,13 @@ Information on my activities as a reviewer can be found on my Publons profile <a
 
 # Articles
 
+Homola, Jonathan. Forthcoming. "The Effects of Women's Descriptive Representation on Government Behavior." *Legislative Studies Quarterly*. [[Abstract]](http://jhomola.com/abstracts#pledges) [[Replication]](https://doi.org/10.7910/DVN/RLXMKD "Replication Files")
+
+Homola, Jonathan. Forthcoming. "Partisanship and perceived threats about immigration." *Party Politics*. [[Link]](https://doi.org/10.1177/1354068820918773 "Party Politics") <a href="http://jhomola.com/files/Homola_2020_PP_ImmigrationFrames_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/L2JYUS "Replication Files")
+
 Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. 2020. "Legacies of the Third Reich: Concentration Camps and Outgroup Intolerance." *American Political Science Review* 114: 573-590. [[Link]](https://doi.org/10.1017/S0003055419000832) <a href="http://jhomola.com/files/HomolaPereiraTavits_2020_APSR_Legacies_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/J0GBTX "Replication Files")
 * Winner of the Sage Best Paper Award (for the best comparative politics paper presented at the 2018 APSA annual conference)
  * APSA Comparative Politics Newsletter, Fall 2019: "Q&A -- Legacies of the Third Reich: Concentration Camps and Outgroup Intolerance" [[Link]](https://www.comparativepoliticsnewsletter.org/wp-content/uploads/2019/12/CP-Newsletter-Fall-19-CP-and-History.pdf "Comparative Politics Newsletter")
-
-Homola, Jonathan. Forthcoming. "Partisanship and perceived threats about immigration." *Party Politics*. [[Link]](https://doi.org/10.1177/1354068820918773 "Party Politics") <a href="http://jhomola.com/files/Homola_2020_PP_ImmigrationFrames_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/L2JYUS "Replication Files")
 
 Homola, Jonathan. 2019. "Are Parties Equally Responsive to Women and Men?" *British Journal of Political Science* 49: 957-975. [[Link]](https://doi.org/10.1017/S0007123417000114 "British Journal of Political Science") <a href="http://jhomola.com/files/Homola_2017_BJPS_ResponsivenessWomenMen_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](http://doi.org/10.7910/DVN/K1TVXL "Replication Files")
  * Süddeutsche Zeitung, February 24, 2018: "Volk und Vertreter" [[Link]](https://projekte.sueddeutsche.de/artikel/politik/bundestag-diese-abgeordneten-fehlen-e291979/ "Washington Post/Monkey Cage")
@@ -43,8 +45,6 @@ Budge, Ian, and Jonathan Homola. 2012. "How Far Have European Political Parties 
 Gill, Jeff, and Jonathan Homola. 2018. "Issues in Polling Methodologies: Inference and Uncertainty." In: Lonna Rae Atkinson and R. Michael Alvarez (eds.): *The Oxford Handbook of Polling and Polling Methods*. Oxford: Oxford University Press: 275-298. [[Link]](http://doi.org/10.1093/oxfordhb/9780190213299.013.11 "OUP Handbooks") [[Replication]](http://doi.org/10.7910/DVN/X9NUOJ "Replication Files")
 
 # Work in Progress
-
-Homola, Jonathan. The Effect of Female Cabinet Ministers on Pledge Fulfillment. *Revise & Resubmit*. [[Abstract]](http://jhomola.com/abstracts#pledges)
 
 Homola, Jonathan. The Political Consequences of Group-Based Identities. [[Abstract]](http://jhomola.com/abstracts#separate)
 
