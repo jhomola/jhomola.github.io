@@ -13,7 +13,7 @@ Information on my activities as a reviewer can be found on my Publons profile <a
 
 # Articles
 
-Homola, Jonathan. Forthcoming. "The Effects of Women's Descriptive Representation on Government Behavior." *Legislative Studies Quarterly*. [[Abstract]](http://jhomola.com/abstracts#pledges) [[Replication]](https://doi.org/10.7910/DVN/RLXMKD "Replication Files")
+Homola, Jonathan. Forthcoming. "The Effects of Women's Descriptive Representation on Government Behavior." *Legislative Studies Quarterly*. [[Abstract]](http://jhomola.com/abstracts#pledges) <a href="http://jhomola.com/files/Homola_2021_LSQ_Pledges_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/RLXMKD "Replication Files")
 
 Homola, Jonathan. Forthcoming. "Partisanship and perceived threats about immigration." *Party Politics*. [[Link]](https://doi.org/10.1177/1354068820918773 "Party Politics") <a href="http://jhomola.com/files/Homola_2020_PP_ImmigrationFrames_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/L2JYUS "Replication Files")
 
