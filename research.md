@@ -50,7 +50,7 @@ Homola, Jonathan. The Political Consequences of Group-Based Identities. [[Abstra
 
 Homola, Jonathan, and Jeff Gill. A Flexible Class of Bayesian Frailty Models For Political Science Data. [[Abstract]](http://jhomola.com/abstracts#frailty)
 
-Homola, Jonathan, Jon C. Rogowski, Betsy Sinclair, Michelle Torres, and Patrick D. Tucker. Through the Ideology of the Beholder: Partisan Perceptions and Polarization Among the Mass Public. [[Abstract]](http://jhomola.com/abstracts#ideology)
+Homola, Jonathan, Jon C. Rogowski, Betsy Sinclair, Michelle Torres, Patrick D. Tucker, and Steven W. Webster. Through the Ideology of the Beholder: How Ideology Shapes Perceptions of Partisan Groups. *Revise and Resubmit*. [[Abstract]](http://jhomola.com/abstracts#ideology)
 
 Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. Fixed Effects and Post-Treatment Bias in Legacy Studies. [[OSF Preprint]](https://osf.io/b945a/)
 
