@@ -18,6 +18,8 @@ bigimg: "/img/washu1.jpg"
 #### Graduate level
 * Representation in Contemporary Democracies
   * Fall 2018, Spring 2020
+* Seminar in Comparative Politics
+  * Fall 2021
 
 ### Harvard University
 #### Teaching Fellow
