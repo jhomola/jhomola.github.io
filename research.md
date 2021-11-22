@@ -15,7 +15,7 @@ Information on my activities as a reviewer can be found on my Publons profile <a
 
 Homola, Jonathan. Forthcoming. "The Effects of Women's Descriptive Representation on Government Behavior." *Legislative Studies Quarterly*. [[Link]](https://doi.org/10.1111/lsq.12330 "Legislative Studies Quarterly") <a href="http://jhomola.com/files/Homola_2021_LSQ_Pledges_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/RLXMKD "Replication Files")
 
-Homola, Jonathan. Forthcoming. "Partisanship and perceived threats about immigration." *Party Politics*. [[Link]](https://doi.org/10.1177/1354068820918773 "Party Politics") <a href="http://jhomola.com/files/Homola_2020_PP_ImmigrationFrames_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/L2JYUS "Replication Files")
+Homola, Jonathan. 2021. "Partisanship and perceived threats about immigration." *Party Politics* 27: 977-982. [[Link]](https://doi.org/10.1177/1354068820918773 "Party Politics") <a href="http://jhomola.com/files/Homola_2020_PP_ImmigrationFrames_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/L2JYUS "Replication Files")
 
 Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. 2020. "Legacies of the Third Reich: Concentration Camps and Outgroup Intolerance." *American Political Science Review* 114: 573-590. [[Link]](https://doi.org/10.1017/S0003055419000832) <a href="http://jhomola.com/files/HomolaPereiraTavits_2020_APSR_Legacies_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/J0GBTX "Replication Files")
 * Winner of the Sage Best Paper Award (for the best comparative politics paper presented at the 2018 APSA annual conference)
