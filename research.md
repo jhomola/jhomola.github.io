@@ -15,6 +15,8 @@ Information on my activities as a reviewer can be found on my Publons profile <a
 
 Homola, Jonathan. Forthcoming. "The Effects of Women's Descriptive Representation on Government Behavior." *Legislative Studies Quarterly*. [[Link]](https://doi.org/10.1111/lsq.12330 "Legislative Studies Quarterly") <a href="http://jhomola.com/files/Homola_2021_LSQ_Pledges_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/RLXMKD "Replication Files")
 
+Homola, Jonathan, Jon C. Rogowski, Betsy Sinclair, Michelle Torres, Patrick D. Tucker, and Steven W. Webster. "Through the ideology of the beholder: how ideology shapes perceptions of partisan groups." *Political Science Research and Methods*. [[Link]](https://doi.org/10.1017/psrm.2022.4 "Political Science Research and Methods") <a href="http://jhomola.com/files/Homola_2021_LSQ_Pledges_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/GB15Y5 "Replication Files")
+
 Homola, Jonathan. 2021. "Partisanship and perceived threats about immigration." *Party Politics* 27: 977-982. [[Link]](https://doi.org/10.1177/1354068820918773 "Party Politics") <a href="http://jhomola.com/files/Homola_2020_PP_ImmigrationFrames_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/L2JYUS "Replication Files")
 
 Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. 2020. "Legacies of the Third Reich: Concentration Camps and Outgroup Intolerance." *American Political Science Review* 114: 573-590. [[Link]](https://doi.org/10.1017/S0003055419000832) <a href="http://jhomola.com/files/HomolaPereiraTavits_2020_APSR_Legacies_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/J0GBTX "Replication Files")
@@ -49,8 +51,6 @@ Gill, Jeff, and Jonathan Homola. 2018. "Issues in Polling Methodologies: Inferen
 Homola, Jonathan. The Political Consequences of Group-Based Identities. [[Abstract]](http://jhomola.com/abstracts#separate)
 
 Homola, Jonathan, and Jeff Gill. A Flexible Class of Bayesian Frailty Models For Political Science Data. [[Abstract]](http://jhomola.com/abstracts#frailty)
-
-Homola, Jonathan, Jon C. Rogowski, Betsy Sinclair, Michelle Torres, Patrick D. Tucker, and Steven W. Webster. Through the Ideology of the Beholder: How Ideology Shapes Perceptions of Partisan Groups. *Revise and Resubmit*. [[Abstract]](http://jhomola.com/abstracts#ideology)
 
 Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. Fixed Effects and Post-Treatment Bias in Legacy Studies. [[OSF Preprint]](https://osf.io/b945a/)
 
