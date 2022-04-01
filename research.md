@@ -50,7 +50,7 @@ Gill, Jeff, and Jonathan Homola. 2018. "Issues in Polling Methodologies: Inferen
 
 Alizade, Jeyhun, Rafaela Dancygier, and Jonathan Homola. Structures of Bias: How the State Systematically Downplays Right-Wing Extremism. *Under review*. [[Abstract]](http://jhomola.com/abstracts#bias)
 
-Dassonneville, Ruth, Nadjim Fréchet, Alexandra Jabbour, Benjamin Ferland, and Jonathan Homola. Are Parties Still Responsive to Public Opinion? *Under review*. [[Abstract]](http://jhomola.com/abstracts#parties)
+Dassonneville, Ruth, Nadjim Fréchet, Alexandra Jabbour, Benjamin Ferland, and Jonathan Homola. Are Parties Still Responsive to Public Opinion? *Under review*. [[Abstract]](http://jhomola.com/abstracts#dassonneville-ruth-nadjim-fréchet-alexandra-jabbour-benjamin-ferland-and-jonathan-homola-are-parties-still-responsive-to-public-opinion)
 
 López Álvarez, Santiago, and Jonathan Homola. More Bullets, More Doves? The Impact of Violence on Political Behavior. *Under review*. [[Abstract]](http://jhomola.com/abstracts#bullets)
 
