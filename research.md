@@ -48,22 +48,22 @@ Gill, Jeff, and Jonathan Homola. 2018. "Issues in Polling Methodologies: Inferen
 
 # Work in Progress
 
-Alizade, Jeyhun, Rafaela Dancygier, and Jonathan Homola. Structures of Bias: How the State Systematically Downplays Right-Wing Extremism. *Under review*. [[Abstract]](http://jhomola.com/abstracts#bias)
+Alizade, Jeyhun, Rafaela Dancygier, and Jonathan Homola. Structures of Bias: How the State Systematically Downplays Right-Wing Extremism. *Under review*. [[Abstract]](http://jhomola.com/abstracts#alizade-jeyhun-rafaela-dancygier-and-jonathan-homola-structures-of-bias-how-the-state-systematically-downplays-right-wing-extremism)
 
 Dassonneville, Ruth, Nadjim Fréchet, Alexandra Jabbour, Benjamin Ferland, and Jonathan Homola. Are Parties Still Responsive to Public Opinion? *Under review*. [[Abstract]](http://jhomola.com/abstracts#dassonneville-ruth-nadjim-fréchet-alexandra-jabbour-benjamin-ferland-and-jonathan-homola-are-parties-still-responsive-to-public-opinion)
 
-López Álvarez, Santiago, and Jonathan Homola. More Bullets, More Doves? The Impact of Violence on Political Behavior. *Under review*. [[Abstract]](http://jhomola.com/abstracts#bullets)
+López Álvarez, Santiago, and Jonathan Homola. More Bullets, More Doves? The Impact of Violence on Political Behavior. *Under review*. [[Abstract]](http://jhomola.com/abstracts#lópez-álvarez-santiago-and-jonathan-homola-more-bullets-more-doves-the-impact-of-violence-on-political-behavior)
 
-Tavits, Margit, Petra Schleiter, Jonathan Homola, and Dalston Ward. Fathers' leave increases attitudinal gender equality. *Under review*. [[Abstract]](http://jhomola.com/abstracts#fathers)
+Tavits, Margit, Petra Schleiter, Jonathan Homola, and Dalston Ward. Fathers' leave increases attitudinal gender equality. *Under review*. [[Abstract]](http://jhomola.com/abstracts#tavits-margit-petra-schleiter-jonathan-homola-and-dalston-ward-fathers-leave-increases-attitudinal-gender-equality)
 
-Homola, Jonathan. The Political Consequences of Group-Based Identities. [[Abstract]](http://jhomola.com/abstracts#separate)
+Homola, Jonathan. The Political Consequences of Group-Based Identities. [[Abstract]](http://jhomola.com/abstracts#homola-jonathan-the-political-consequences-of-group-based-identities)
 
-Homola, Jonathan, and Jeff Gill. A Flexible Class of Bayesian Frailty Models For Political Science Data. [[Abstract]](http://jhomola.com/abstracts#frailty)
+Homola, Jonathan, and Jeff Gill. A Flexible Class of Bayesian Frailty Models For Political Science Data. [[Abstract]](http://jhomola.com/abstracts#id="homola-jonathan-and-jeff-gill-a-flexible-class-of-bayesian-frailty-models-for-political-science-data")
 
 Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. Fixed Effects and Post-Treatment Bias in Legacy Studies. [[OSF Preprint]](https://osf.io/b945a/)
 
-Etchevarren Acquarone, Iris, and Jonathan Homola. Closer to You? Candidate Gender and Proximity Voting. *Work in progress*. [[Abstract]](http://jhomola.com/abstracts#closer)
+Etchevarren Acquarone, Iris, and Jonathan Homola. Closer to You? Candidate Gender and Proximity Voting. *Work in progress*. [[Abstract]](http://jhomola.com/abstracts#etchevarren-acquarone-iris-and-jonathan-homola-closer-to-you-candidate-gender-and-proximity-voting)
 
-Homola, Jonathan, Connor Huff, Yui Nishimura, and Amorae Times. The Gendered Legacies of the US West and Military Enlistment Behavior. *Work in progress*. [[Abstract]](http://jhomola.com/abstracts#frontier)
+Homola, Jonathan, Connor Huff, Yui Nishimura, and Amorae Times. The Gendered Legacies of the US West and Military Enlistment Behavior. *Work in progress*. [[Abstract]](http://jhomola.com/abstracts#homola-jonathan-connor-huff-yui-nishimura-and-amorae-times-the-gendered-legacies-of-the-us-west-and-military-enlistment-behavior)
 
 Torres, Michelle, and Jonathan Homola. The Shades and Shapes of the Pink Wave: Visual Perspectives of the Women's March. *Work in progress*.
