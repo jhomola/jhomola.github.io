@@ -48,13 +48,13 @@ Gill, Jeff, and Jonathan Homola. 2018. "Issues in Polling Methodologies: Inferen
 
 # Work in Progress
 
-Alizade, Jeyhun, Rafaela Dancygier, and Jonathan Homola. Structures of Bias: How the State Systematically Downplays Right-Wing Extremism. *Under review*.
+Alizade, Jeyhun, Rafaela Dancygier, and Jonathan Homola. Structures of Bias: How the State Systematically Downplays Right-Wing Extremism. *Under review*. [[Abstract]](http://jhomola.com/abstracts#bias)
 
-Dassonneville, Ruth, Nadjim Fréchet, Alexandra Jabbour, Benjamin Ferland, and Jonathan Homola. Are Parties Still Responsive to Public Opinion? *Under review*.
+Dassonneville, Ruth, Nadjim Fréchet, Alexandra Jabbour, Benjamin Ferland, and Jonathan Homola. Are Parties Still Responsive to Public Opinion? *Under review*. [[Abstract]](http://jhomola.com/abstracts#parties)
 
-López Álvarez, Santiago, and Jonathan Homola. More Bullets, More Doves? The Impact of Violence on Political Behavior. *Under review*.
+López Álvarez, Santiago, and Jonathan Homola. More Bullets, More Doves? The Impact of Violence on Political Behavior. *Under review*. [[Abstract]](http://jhomola.com/abstracts#bullets)
 
-Tavits, Margit, Petra Schleiter, Jonathan Homola, and Dalston Ward. Fathers' leave increases attitudinal gender equality. *Under review*.
+Tavits, Margit, Petra Schleiter, Jonathan Homola, and Dalston Ward. Fathers' leave increases attitudinal gender equality. *Under review*. [[Abstract]](http://jhomola.com/abstracts#fathers)
 
 Homola, Jonathan. The Political Consequences of Group-Based Identities. [[Abstract]](http://jhomola.com/abstracts#separate)
 
@@ -62,8 +62,8 @@ Homola, Jonathan, and Jeff Gill. A Flexible Class of Bayesian Frailty Models For
 
 Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. Fixed Effects and Post-Treatment Bias in Legacy Studies. [[OSF Preprint]](https://osf.io/b945a/)
 
-Etchevarren Acquarone, Iris, and Jonathan Homola. Closer to You? Candidate Gender and Proximity Voting. *Work in progress*.
+Etchevarren Acquarone, Iris, and Jonathan Homola. Closer to You? Candidate Gender and Proximity Voting. *Work in progress*. [[Abstract]](http://jhomola.com/abstracts#closer)
 
-Homola, Jonathan, Connor Huff, Yui Nishimura, and Amorae Times. The Gendered Legacies of the US West and Military Enlistment Behavior. *Work in progress*.
+Homola, Jonathan, Connor Huff, Yui Nishimura, and Amorae Times. The Gendered Legacies of the US West and Military Enlistment Behavior. *Work in progress*. [[Abstract]](http://jhomola.com/abstracts#frontier)
 
 Torres, Michelle, and Jonathan Homola. The Shades and Shapes of the Pink Wave: Visual Perspectives of the Women's March. *Work in progress*.
