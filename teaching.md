@@ -13,7 +13,7 @@ bigimg: "/img/washu1.jpg"
 * Western European Democracies
   * Fall 2018, Fall 2020, Spring 2022
 * Parties & Voting Behavior
-  * Fall 2019, Spring 2021
+  * Fall 2019, Spring 2021, Fall 2022
   
 #### Graduate level
 * Representation in Contemporary Democracies
