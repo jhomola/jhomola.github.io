@@ -13,9 +13,9 @@ Information on my activities as a reviewer can be found on my Publons profile <a
 
 # Articles
 
-Homola, Jonathan. Forthcoming. "The Effects of Women's Descriptive Representation on Government Behavior." *Legislative Studies Quarterly*. [[Link]](https://doi.org/10.1111/lsq.12330 "Legislative Studies Quarterly") <a href="http://jhomola.com/files/Homola_2021_LSQ_Pledges_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/RLXMKD "Replication Files")
-
 Homola, Jonathan, Jon C. Rogowski, Betsy Sinclair, Michelle Torres, Patrick D. Tucker, and Steven W. Webster. Forthcoming. "Through the ideology of the beholder: how ideology shapes perceptions of partisan groups." *Political Science Research and Methods*. [[Link]](https://doi.org/10.1017/psrm.2022.4 "Political Science Research and Methods") <a href="http://jhomola.com/files/HomolaEtAl_2022_PSRM_Ideology_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/GB15Y5 "Replication Files")
+
+Homola, Jonathan. 2022. "The Effects of Women's Descriptive Representation on Government Behavior." *Legislative Studies Quarterly* 47: 295-308. [[Link]](https://doi.org/10.1111/lsq.12330 "Legislative Studies Quarterly") <a href="http://jhomola.com/files/Homola_2021_LSQ_Pledges_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/RLXMKD "Replication Files")
 
 Homola, Jonathan. 2021. "Partisanship and perceived threats about immigration." *Party Politics* 27: 977-982. [[Link]](https://doi.org/10.1177/1354068820918773 "Party Politics") <a href="http://jhomola.com/files/Homola_2020_PP_ImmigrationFrames_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/L2JYUS "Replication Files")
 
@@ -48,13 +48,15 @@ Gill, Jeff, and Jonathan Homola. 2018. "Issues in Polling Methodologies: Inferen
 
 # Work in Progress
 
+Homola, Jonathan, Connor Huff, Yui Nishimura, and Amorae Times. The Gendered Legacies of the US West and Military Enlistment Behavior. *Conditionally Accepted at the Journal of Historical Political Economy*. [[Abstract]](http://jhomola.com/abstracts#homola-jonathan-connor-huff-yui-nishimura-and-amorae-times-the-gendered-legacies-of-the-us-west-and-military-enlistment-behavior)
+
+Tavits, Margit, Petra Schleiter, Jonathan Homola, and Dalston Ward. Fathers' leave increases attitudinal gender equality. *Revise & Resubmitw*. [[Abstract]](http://jhomola.com/abstracts#tavits-margit-petra-schleiter-jonathan-homola-and-dalston-ward-fathers-leave-increases-attitudinal-gender-equality)
+
 Alizade, Jeyhun, Rafaela Dancygier, and Jonathan Homola. Structures of Bias: How the State Systematically Downplays Right-Wing Extremism. *Under review*. [[Abstract]](http://jhomola.com/abstracts#alizade-jeyhun-rafaela-dancygier-and-jonathan-homola-structures-of-bias-how-the-state-systematically-downplays-right-wing-extremism)
 
 Dassonneville, Ruth, Nadjim Fréchet, Alexandra Jabbour, Benjamin Ferland, and Jonathan Homola. Are Parties Still Responsive to Public Opinion? *Under review*. [[Abstract]](http://jhomola.com/abstracts#dassonneville-ruth-nadjim-fréchet-alexandra-jabbour-benjamin-ferland-and-jonathan-homola-are-parties-still-responsive-to-public-opinion)
 
 López Álvarez, Santiago, and Jonathan Homola. More Bullets, More Doves? The Impact of Violence on Political Behavior. *Under review*. [[Abstract]](http://jhomola.com/abstracts#lópez-álvarez-santiago-and-jonathan-homola-more-bullets-more-doves-the-impact-of-violence-on-political-behavior)
-
-Tavits, Margit, Petra Schleiter, Jonathan Homola, and Dalston Ward. Fathers' leave increases attitudinal gender equality. *Under review*. [[Abstract]](http://jhomola.com/abstracts#tavits-margit-petra-schleiter-jonathan-homola-and-dalston-ward-fathers-leave-increases-attitudinal-gender-equality)
 
 Homola, Jonathan. The Political Consequences of Group-Based Identities. [[Abstract]](http://jhomola.com/abstracts#homola-jonathan-the-political-consequences-of-group-based-identities)
 
@@ -63,7 +65,5 @@ Homola, Jonathan, and Jeff Gill. A Flexible Class of Bayesian Frailty Models For
 Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. Fixed Effects and Post-Treatment Bias in Legacy Studies. [[OSF Preprint]](https://osf.io/b945a/)
 
 Etchevarren Acquarone, Iris, and Jonathan Homola. Closer to You? Candidate Gender and Proximity Voting. *Work in progress*. [[Abstract]](http://jhomola.com/abstracts#etchevarren-acquarone-iris-and-jonathan-homola-closer-to-you-candidate-gender-and-proximity-voting)
-
-Homola, Jonathan, Connor Huff, Yui Nishimura, and Amorae Times. The Gendered Legacies of the US West and Military Enlistment Behavior. *Work in progress*. [[Abstract]](http://jhomola.com/abstracts#homola-jonathan-connor-huff-yui-nishimura-and-amorae-times-the-gendered-legacies-of-the-us-west-and-military-enlistment-behavior)
 
 Torres, Michelle, and Jonathan Homola. The Shades and Shapes of the Pink Wave: Visual Perspectives of the Women's March. *Work in progress*.
