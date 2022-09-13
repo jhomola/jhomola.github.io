@@ -53,7 +53,7 @@ Gill, Jeff, and Jonathan Homola. 2018. "Issues in Polling Methodologies: Inferen
 
 Homola, Jonathan, Connor Huff, Yui Nishimura, and Amorae Times. The Gendered Legacies of the US West and Military Enlistment Behavior. *Conditionally Accepted at the Journal of Historical Political Economy*. [[Abstract]](http://jhomola.com/abstracts#homola-jonathan-connor-huff-yui-nishimura-and-amorae-times-the-gendered-legacies-of-the-us-west-and-military-enlistment-behavior)
 
-Tavits, Margit, Petra Schleiter, Jonathan Homola, and Dalston Ward. Fathers' leave increases attitudinal gender equality. *Revise & Resubmitw*. [[Abstract]](http://jhomola.com/abstracts#tavits-margit-petra-schleiter-jonathan-homola-and-dalston-ward-fathers-leave-increases-attitudinal-gender-equality)
+Tavits, Margit, Petra Schleiter, Jonathan Homola, and Dalston Ward. Fathers' leave increases attitudinal gender equality. *Revise & Resubmit*. [[Abstract]](http://jhomola.com/abstracts#tavits-margit-petra-schleiter-jonathan-homola-and-dalston-ward-fathers-leave-increases-attitudinal-gender-equality)
 
 Alizade, Jeyhun, Rafaela Dancygier, and Jonathan Homola. Structures of Bias: How the State Systematically Downplays Right-Wing Extremism. *Under review*. [[Abstract]](http://jhomola.com/abstracts#alizade-jeyhun-rafaela-dancygier-and-jonathan-homola-structures-of-bias-how-the-state-systematically-downplays-right-wing-extremism)
 
