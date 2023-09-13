@@ -67,6 +67,10 @@ Homola, Jonathan. The Political Consequences of Group-Based Identities. [[Abstra
 
 Homola, Jonathan, and Jeff Gill. A Flexible Class of Bayesian Frailty Models For Political Science Data. [[Abstract]](http://jhomola.com/abstracts#id="homola-jonathan-and-jeff-gill-a-flexible-class-of-bayesian-frailty-models-for-political-science-data")
 
+Bhakta, Kishan, Maranda Joyce, Tabitha Koch, and Jonathan Homola. Politician Responses in the Aftermath of Violent Threats. *Work in progress*.
+
 Etchevarren Acquarone, Iris, and Jonathan Homola. Closer to You? Candidate Gender and Proximity Voting. *Work in progress*. [[Abstract]](http://jhomola.com/abstracts#etchevarren-acquarone-iris-and-jonathan-homola-closer-to-you-candidate-gender-and-proximity-voting)
+
+Homola, Jonathan, Petra Schleiter, and Margit Tavits. The UK Voter ID reform: effects on voter attitudes and behaviour. *Work in progress*.
 
 Torres, Michelle, and Jonathan Homola. The Shades and Shapes of the Pink Wave: Visual Perspectives of the Women's March. *Work in progress*.
