@@ -6,6 +6,11 @@ use-mix-title: true
 bigimg: "/img/washu1.jpg"
 ---
 
+### University of California, Los Angeles
+#### Undergraduate level
+* Parties and Voting Behavior in Western Democracies
+  * Fall 2023
+
 ### Rice University
 #### Undergraduate level
 * Introduction to Comparative Politics
