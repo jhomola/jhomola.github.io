@@ -56,6 +56,7 @@ Gill, Jeff, and Jonathan Homola. 2018. "Issues in Polling Methodologies: Inferen
 # Work in Progress
 
 Alizade, Jeyhun, Rafaela Dancygier, and Jonathan Homola. Structures of Bias: How the State Systematically Downplays Right-Wing Extremism. *Under review*. [[Abstract]](http://jhomola.com/abstracts#alizade-jeyhun-rafaela-dancygier-and-jonathan-homola-structures-of-bias-how-the-state-systematically-downplays-right-wing-extremism)
+ * Washington Post, Monkey Cage, December 13, 2022: "Germany foiled a far-right coup attempt. It still has a right-wing problem." [[Link]](https://www.washingtonpost.com/politics/2022/12/13/germany-coup-reichsbrger-nazis/ "Washington Post/Monkey Cage")
 
 Dassonneville, Ruth, Nadjim Fréchet, Alexandra Jabbour, Benjamin Ferland, and Jonathan Homola. Are Parties Still Responsive to Public Opinion? *Under review*. [[Abstract]](http://jhomola.com/abstracts#dassonneville-ruth-nadjim-fréchet-alexandra-jabbour-benjamin-ferland-and-jonathan-homola-are-parties-still-responsive-to-public-opinion)
 
