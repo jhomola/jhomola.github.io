@@ -15,7 +15,7 @@ baseurl: ""
 title: Jonathan Homola
 
 # Short description of your site
-description: Assistant Professor of Political Science at Rice University. Comparativist & Political Methodologist. Information on research, teaching, software.
+description: Assistant Professor of Political Science at the University of California, Los Angeles. Comparativist & Political Methodologist. Information on research, teaching, software.
 
 # --- Navigation bar options --- #
 
@@ -42,7 +42,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Jonathan Homola
-  email: "homola@rice.edu"
+  email: "homola@ucla.edu"
   github: jhomola
   twitter: j_homola
   google-plus: aSE6nxMAAAAJ  # (programmed hack in footer file to make it googlescholar)
