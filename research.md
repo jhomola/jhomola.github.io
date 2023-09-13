@@ -9,11 +9,15 @@ You can find my Google Scholar profile <a href="https://scholar.google.com/citat
 
 Replication data for my publications is available from my dataverse <a href="https://dataverse.harvard.edu/dataverse/jhomola" target="_blank">[here.]</a>
 
-Information on my activities as a reviewer can be found on my Publons profile <a href="https://publons.com/a/1249053/" target="_blank">[here.]</a>
+Information on my activities as a reviewer can be found on my Publons/Web of Science profile <a href="https://www.webofscience.com/wos/author/record/632185" target="_blank">[here.]</a>
 
 # Articles
 
-Homola, Jonathan, Jon C. Rogowski, Betsy Sinclair, Michelle Torres, Patrick D. Tucker, and Steven W. Webster. Forthcoming. "Through the ideology of the beholder: how ideology shapes perceptions of partisan groups." *Political Science Research and Methods*. [[Link]](https://doi.org/10.1017/psrm.2022.4 "Political Science Research and Methods") <a href="http://jhomola.com/files/HomolaEtAl_2022_PSRM_Ideology_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/GB15Y5 "Replication Files")
+Tavits, Margit, Petra Schleiter, Jonathan Homola, and Dalston Ward. Forthcoming. "Fathers' leave increases attitudinal gender equality." *American Political Science Review*. [[Link]](https://doi.org/10.1017/S0003055423000369 "American Political Science Review") [[Replication]](https://doi.org/10.7910/DVN/4DUB7X "Replication Files")
+
+Homola, Jonathan, Connor Huff, Yui Nishimura, and Amorae Times. 2023. "The Gendered Legacies of the Frontier and Military Enlistment Behavior." *Journal of Historical Political Economy* 2: 635-653. [[Link]](http://dx.doi.org/10.1561/115.00000043 "Journal of Historical Political Economy")
+
+Homola, Jonathan, Jon C. Rogowski, Betsy Sinclair, Michelle Torres, Patrick D. Tucker, and Steven W. Webster. 2023. "Through the ideology of the beholder: how ideology shapes perceptions of partisan groups." *Political Science Research and Methods* 11: 275-292. [[Link]](https://doi.org/10.1017/psrm.2022.4 "Political Science Research and Methods") <a href="http://jhomola.com/files/HomolaEtAl_2022_PSRM_Ideology_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/GB15Y5 "Replication Files")
 
 Homola, Jonathan. 2022. "The Effects of Women's Descriptive Representation on Government Behavior." *Legislative Studies Quarterly* 47: 295-308. [[Link]](https://doi.org/10.1111/lsq.12330 "Legislative Studies Quarterly") <a href="http://jhomola.com/files/Homola_2021_LSQ_Pledges_Appendix.pdf" target="_blank">[Appendix]</a> [[Replication]](https://doi.org/10.7910/DVN/RLXMKD "Replication Files")
 * Wiley, March 2022: "International Women's Day/Women's History Month" [[Link]](https://onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)9999-0012.intl-womens-day "Wiley: International Women's Day")
@@ -50,10 +54,6 @@ Budge, Ian, and Jonathan Homola. 2012. "How Far Have European Political Parties 
 Gill, Jeff, and Jonathan Homola. 2018. "Issues in Polling Methodologies: Inference and Uncertainty." In: Lonna Rae Atkinson and R. Michael Alvarez (eds.): *The Oxford Handbook of Polling and Polling Methods*. Oxford: Oxford University Press: 275-298. [[Link]](http://doi.org/10.1093/oxfordhb/9780190213299.013.11 "OUP Handbooks") [[Replication]](http://doi.org/10.7910/DVN/X9NUOJ "Replication Files")
 
 # Work in Progress
-
-Homola, Jonathan, Connor Huff, Yui Nishimura, and Amorae Times. The Gendered Legacies of the US West and Military Enlistment Behavior. *Conditionally Accepted at the Journal of Historical Political Economy*. [[Abstract]](http://jhomola.com/abstracts#homola-jonathan-connor-huff-yui-nishimura-and-amorae-times-the-gendered-legacies-of-the-us-west-and-military-enlistment-behavior)
-
-Tavits, Margit, Petra Schleiter, Jonathan Homola, and Dalston Ward. Fathers' leave increases attitudinal gender equality. *Revise & Resubmit*. [[Abstract]](http://jhomola.com/abstracts#tavits-margit-petra-schleiter-jonathan-homola-and-dalston-ward-fathers-leave-increases-attitudinal-gender-equality)
 
 Alizade, Jeyhun, Rafaela Dancygier, and Jonathan Homola. Structures of Bias: How the State Systematically Downplays Right-Wing Extremism. *Under review*. [[Abstract]](http://jhomola.com/abstracts#alizade-jeyhun-rafaela-dancygier-and-jonathan-homola-structures-of-bias-how-the-state-systematically-downplays-right-wing-extremism)
 
