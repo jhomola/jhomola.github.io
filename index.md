@@ -12,7 +12,7 @@ bigimg:
   - "/img/stl2.JPG": "St. Louis"
 ---
 
-<img src="/img/Homola.JPG" class="wrap align-right" alt="Jonathan Homola Profile Picture">
+<img src="/img/Homola.jpg" class="wrap align-right" alt="Jonathan Homola Profile Picture">
 
 <p align="justify">Hi! I am Jonathan Homola, an Assistant Professor in the Department of Political Science at the <a href="https://polisci.ucla.edu" target="_blank">University of California, Los Angeles</a>. I am a comparativist and a political methodologist. Most of my substantive research deals with questions of representation and electoral preferences. More specifically, my work mostly falls into two main fields of interest: i) xenophobia and (support for right-wing) extremism, and ii) gender and politics. My regional areas of expertise are Western democracies and Eastern Europe. Methodologically, I am interested in Bayesian research methods, survival models, survey methodology, and causal inference. My work across these different fields has led to multiple <a href="http://jhomola.com/research">publications</a> including papers in the American Political Science Review, the Journal of Politics, Political Analysis, the British Journal of Political Science, and Comparative Political Studies.</p>
 
