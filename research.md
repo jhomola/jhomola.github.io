@@ -13,7 +13,7 @@ Information on my activities as a reviewer can be found on my Publons/Web of Sci
 
 # Articles
 
-Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. 2024. "Fixed Effects and Post-Treatment Bias in Legacy Studies." *American Political Science Review* 118: 537-544. [[Link]](https://doi.org/10.1017/S0003055423001351 "American Political Science Review") [[Replication]](https://doi.org/10.7910/DVN/YTXZ6X "Replication Files"); [[OSF Preprint, March 2023]](https://osf.io/eha72/); [[OSF Preprint, June 2020]](https://osf.io/b945a/)
+Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. 2024. "Fixed Effects and Post-Treatment Bias in Legacy Studies." *American Political Science Review* 118: 537-544. [[Link]](https://doi.org/10.1017/S0003055423001351 "American Political Science Review") [[Replication]](https://doi.org/10.7910/DVN/YTXZ6X "Replication Files") [[OSF Preprint, March 2023]](https://osf.io/eha72/) [[OSF Preprint, June 2020]](https://osf.io/b945a/)
 
 Tavits, Margit, Petra Schleiter, Jonathan Homola, and Dalston Ward. 2024. "Fathers' leave increases attitudinal gender equality." *American Political Science Review* 118: 488-494. [[Link]](https://doi.org/10.1017/S0003055423000369 "American Political Science Review") [[Replication]](https://doi.org/10.7910/DVN/4DUB7X "Replication Files")
 
