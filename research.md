@@ -13,7 +13,9 @@ Information on my activities as a reviewer can be found on my Publons/Web of Sci
 
 # Articles
 
-Tavits, Margit, Petra Schleiter, Jonathan Homola, and Dalston Ward. Forthcoming. "Fathers' leave increases attitudinal gender equality." *American Political Science Review*. [[Link]](https://doi.org/10.1017/S0003055423000369 "American Political Science Review") [[Replication]](https://doi.org/10.7910/DVN/4DUB7X "Replication Files")
+Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. 2024. "Fixed Effects and Post-Treatment Bias in Legacy Studies." *American Political Science Review* 118: 537-544. [[Link]](https://doi.org/10.1017/S0003055423001351 "American Political Science Review") [[Replication]](https://doi.org/10.7910/DVN/YTXZ6X "Replication Files"); [[OSF Preprint, March 2023]](https://osf.io/eha72/); [[OSF Preprint, June 2020]](https://osf.io/b945a/)
+
+Tavits, Margit, Petra Schleiter, Jonathan Homola, and Dalston Ward. 2024. "Fathers' leave increases attitudinal gender equality." *American Political Science Review* 118: 488-494. [[Link]](https://doi.org/10.1017/S0003055423000369 "American Political Science Review") [[Replication]](https://doi.org/10.7910/DVN/4DUB7X "Replication Files")
 
 Homola, Jonathan, Connor Huff, Yui Nishimura, and Amorae Times. 2023. "The Gendered Legacies of the Frontier and Military Enlistment Behavior." *Journal of Historical Political Economy* 2: 635-653. [[Link]](http://dx.doi.org/10.1561/115.00000043 "Journal of Historical Political Economy")
 
@@ -58,9 +60,7 @@ Gill, Jeff, and Jonathan Homola. 2018. "Issues in Polling Methodologies: Inferen
 Alizade, Jeyhun, Rafaela Dancygier, and Jonathan Homola. Structures of Bias: How the State Systematically Downplays Right-Wing Extremism. *Under review*. [[Abstract]](http://jhomola.com/abstracts#alizade-jeyhun-rafaela-dancygier-and-jonathan-homola-structures-of-bias-how-the-state-systematically-downplays-right-wing-extremism)
  * Washington Post, Monkey Cage, December 13, 2022: "Germany foiled a far-right coup attempt. It still has a right-wing problem." [[Link]](https://www.washingtonpost.com/politics/2022/12/13/germany-coup-reichsbrger-nazis/ "Washington Post/Monkey Cage")
 
-Dassonneville, Ruth, Nadjim Fréchet, Alexandra Jabbour, Benjamin Ferland, and Jonathan Homola. Are Parties Still Responsive to Public Opinion? *Under review*. [[Abstract]](http://jhomola.com/abstracts#dassonneville-ruth-nadjim-fréchet-alexandra-jabbour-benjamin-ferland-and-jonathan-homola-are-parties-still-responsive-to-public-opinion)
-
-Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. Fixed Effects and Post-Treatment Bias in Legacy Studies. *Under review.* [[OSF Preprint, March 2023]](https://osf.io/eha72/); [[OSF Preprint, June 2020]](https://osf.io/b945a/)
+Dassonneville, Ruth, Nadjim Fréchet, Alexandra Jabbour, Benjamin Ferland, and Jonathan Homola. Are Parties Still Responsive to Public Opinion? *Revise & resubmit*. [[Abstract]](http://jhomola.com/abstracts#dassonneville-ruth-nadjim-fréchet-alexandra-jabbour-benjamin-ferland-and-jonathan-homola-are-parties-still-responsive-to-public-opinion)
 
 López Álvarez, Santiago, and Jonathan Homola. More Bullets, More Doves? The Impact of Violence on Political Behavior. *Under review*. [[Abstract]](http://jhomola.com/abstracts#lópez-álvarez-santiago-and-jonathan-homola-more-bullets-more-doves-the-impact-of-violence-on-political-behavior)
 
