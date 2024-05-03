@@ -13,7 +13,7 @@ Information on my activities as a reviewer can be found on my Publons/Web of Sci
 
 # Articles
 
-Dassonneville, Ruth, Nadjim Fréchet, Alexandra Jabbour, Benjamin Ferland, and Jonathan Homola. Forthcoming. "Party responsiveness over time: From left-right to issue specific dimensions" *Party Politics*. [[Link]](https://doi.org/10.1177/13540688241245065 "Party Politics")
+Dassonneville, Ruth, Nadjim Fréchet, Alexandra Jabbour, Benjamin Ferland, and Jonathan Homola. Forthcoming. "Party responsiveness over time: From left-right to issue specific dimensions." *Party Politics*. [[Link]](https://doi.org/10.1177/13540688241245065 "Party Politics")
 
 Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. 2024. "Fixed Effects and Post-Treatment Bias in Legacy Studies." *American Political Science Review* 118: 537-544. [[Link]](https://doi.org/10.1017/S0003055423001351 "American Political Science Review") [[Replication]](https://doi.org/10.7910/DVN/YTXZ6X "Replication Files") [[OSF Preprint, March 2023]](https://osf.io/eha72/) [[OSF Preprint, June 2020]](https://osf.io/b945a/)
 
