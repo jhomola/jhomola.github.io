@@ -60,8 +60,8 @@ Gill, Jeff, and Jonathan Homola. 2018. "Issues in Polling Methodologies: Inferen
 # Work in Progress
 
 Alizade, Jeyhun, Rafaela Dancygier, and Jonathan Homola. Structures of Bias: How the State Systematically Downplays Right-Wing Extremism. *Under review*. [[Abstract]](http://jhomola.com/abstracts#alizade-jeyhun-rafaela-dancygier-and-jonathan-homola-structures-of-bias-how-the-state-systematically-downplays-right-wing-extremism)
- * Washington Post, Monkey Cage, December 13, 2022: "Germany foiled a far-right coup attempt. It still has a right-wing problem." [[Link]](https://www.washingtonpost.com/politics/2022/12/13/germany-coup-reichsbrger-nazis/ "Washington Post/Monkey Cage")
  * WZB Mitteilungen 183, March 2024: "Auf einem Auge blind" [[Link]](https://bibliothek.wzb.eu/artikel/2024/f-26074.pdf "WZB Mitteilungen")
+ * Washington Post, Monkey Cage, December 13, 2022: "Germany foiled a far-right coup attempt. It still has a right-wing problem." [[Link]](https://www.washingtonpost.com/politics/2022/12/13/germany-coup-reichsbrger-nazis/ "Washington Post/Monkey Cage")
 
 López Álvarez, Santiago, and Jonathan Homola. More Bullets, More Doves? The Impact of Violence on Political Behavior. *Under review*. [[Abstract]](http://jhomola.com/abstracts#lópez-álvarez-santiago-and-jonathan-homola-more-bullets-more-doves-the-impact-of-violence-on-political-behavior)
 
