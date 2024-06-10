@@ -67,15 +67,15 @@ López Álvarez, Santiago, and Jonathan Homola. More Bullets, More Doves? The Im
 
 Homola, Jonathan. The Political Consequences of Group-Based Identities. [[Abstract]](http://jhomola.com/abstracts#homola-jonathan-the-political-consequences-of-group-based-identities)
 
-Homola, Jonathan, and Jeff Gill. A Flexible Class of Bayesian Frailty Models For Political Science Data. [[Abstract]](http://jhomola.com/abstracts#id="homola-jonathan-and-jeff-gill-a-flexible-class-of-bayesian-frailty-models-for-political-science-data")
+Homola, Jonathan, and Jeff Gill. A Flexible Class of Bayesian Frailty Models For Political Science Data. [[Abstract]](http://jhomola.com/abstracts#homola-jonathan-and-jeff-gill-a-flexible-class-of-bayesian-frailty-models-for-political-science-data)
 
-Aaskoven, Lasse, and Jonathan Homola. The Long-term Effects of Refugees Exposure: Evidence from German Refugees in Denmark. *Work in progress*.
+Aaskoven, Lasse, and Jonathan Homola. The Long-term Effects of Refugees Exposure: Evidence from German Refugees in Denmark. *Work in progress*. [[Abstract]](http://jhomola.com/abstracts#aaskoven-lasse-and-jonathan-homola-the-long-term-effects-of-refugees-exposure-evidence-from-german-refugees-in-denmark)
 
-Bhakta, Kishan, Maranda Joyce, Tabitha Koch, and Jonathan Homola. Politician Responses in the Aftermath of Violent Threats. *Work in progress*.
+Bhakta, Kishan, Maranda Joyce, Tabitha Koch, and Jonathan Homola. Politician Responses in the Aftermath of Violent Threats. *Work in progress*. [[Abstract]](http://jhomola.com/abstracts#bhakta-kishan-maranda-joyce-tabitha-koch-and-jonathan-homola-politician-responses-in-the-aftermath-of-violent-threats)
 
 Etchevarren Acquarone, Iris, and Jonathan Homola. Closer to You? Candidate Gender and Proximity Voting. *Work in progress*. [[Abstract]](http://jhomola.com/abstracts#etchevarren-acquarone-iris-and-jonathan-homola-closer-to-you-candidate-gender-and-proximity-voting)
 
-Ezrow, Lawrence, Timothy Hellwig, and Jonathan Homola. Policy Responsiveness to Women. *Work in progress*.
+Ezrow, Lawrence, Timothy Hellwig, and Jonathan Homola. Policy Responsiveness to Women. *Work in progress*. [[Abstract]](http://jhomola.com/abstracts#ezrow-lawrence-timothy-hellwig-and-jonathan-homola-policy-responsiveness-to-women)
 
 Homola, Jonathan, Petra Schleiter, and Margit Tavits. The UK Voter ID reform: effects on voter attitudes and behaviour. *Work in progress*.
 
