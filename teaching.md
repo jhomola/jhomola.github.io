@@ -8,6 +8,8 @@ bigimg: "/img/washu1.jpg"
 
 ### University of California, Los Angeles
 #### Undergraduate level
+* West European Government and Politics
+  * Spring 2024, Fall 2024
 * Parties and Voting Behavior in Western Democracies
   * Fall 2023
 
