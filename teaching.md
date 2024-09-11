@@ -12,6 +12,10 @@ bigimg: "/img/washu1.jpg"
   * Spring 2024, Fall 2024
 * Parties and Voting Behavior in Western Democracies
   * Fall 2023
+ 
+#### Graduate level
+* Representation in Western Democracies
+  * Spring 2024 
 
 ### Rice University
 #### Undergraduate level
