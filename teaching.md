@@ -8,10 +8,12 @@ bigimg: "/img/washu1.jpg"
 
 ### University of California, Los Angeles
 #### Undergraduate level
+* Introduction to Comparative Politics
+  * Spring 2025
 * West European Government and Politics
   * Spring 2024, Fall 2024
 * Parties and Voting Behavior in Western Democracies
-  * Fall 2023
+  * Fall 2023, Spring 2025
  
 #### Graduate level
 * Representation in Western Democracies
