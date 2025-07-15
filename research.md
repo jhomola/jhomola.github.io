@@ -13,7 +13,7 @@ Information on my activities as a reviewer can be found on my Publons/Web of Sci
 
 # Articles
 
-Dassonneville, Ruth, Nadjim Fréchet, Alexandra Jabbour, Benjamin Ferland, and Jonathan Homola. Forthcoming. "Party responsiveness over time: From left-right to issue specific dimensions." *Party Politics*. [[Link]](https://doi.org/10.1177/13540688241245065 "Party Politics")
+Dassonneville, Ruth, Nadjim Fréchet, Alexandra Jabbour, Benjamin Ferland, and Jonathan Homola. 2025. "Party responsiveness over time: From left-right to issue specific dimensions." *Party Politics* 31(4): 751-760. [[Link]](https://doi.org/10.1177/13540688241245065 "Party Politics")
 
 Homola, Jonathan, Miguel M. Pereira, and Margit Tavits. 2024. "Fixed Effects and Post-Treatment Bias in Legacy Studies." *American Political Science Review* 118(1): 537-544. [[Link]](https://doi.org/10.1017/S0003055423001351 "American Political Science Review") [[Replication]](https://doi.org/10.7910/DVN/YTXZ6X "Replication Files") [[OSF Preprint, March 2023]](https://osf.io/eha72/) [[OSF Preprint, June 2020]](https://osf.io/b945a/)
 
@@ -59,15 +59,15 @@ Gill, Jeff, and Jonathan Homola. 2018. "Issues in Polling Methodologies: Inferen
 
 # Work in Progress
 
-Alizade, Jeyhun, Rafaela Dancygier, and Jonathan Homola. Downplaying Extremism? How the State Approaches Right-wing and Left-wing Extremist Threats. *Under review*. [[Abstract]](http://jhomola.com/abstracts#alizade-jeyhun-rafaela-dancygier-and-jonathan-homola-structures-of-bias-how-the-state-systematically-downplays-right-wing-extremism)
+Alizade, Jeyhun, Rafaela Dancygier, and Jonathan Homola. Downplaying Extremism? How the State Approaches Right-wing and Left-wing Extremist Threats. *Revise & Resubmit*. [[Abstract]](http://jhomola.com/abstracts#alizade-jeyhun-rafaela-dancygier-and-jonathan-homola-structures-of-bias-how-the-state-systematically-downplays-right-wing-extremism)
  * WZB Mitteilungen 183, March 2024: "Auf einem Auge blind" [[Link]](https://bibliothek.wzb.eu/artikel/2024/f-26074.pdf "WZB Mitteilungen")
  * Washington Post, Monkey Cage, December 13, 2022: "Germany foiled a far-right coup attempt. It still has a right-wing problem." [[Link]](https://www.washingtonpost.com/politics/2022/12/13/germany-coup-reichsbrger-nazis/ "Washington Post/Monkey Cage")
-
-López Álvarez, Santiago, and Jonathan Homola. More Bullets, More Doves? The Impact of Violence on Political Behavior. *Under review*. [[Abstract]](http://jhomola.com/abstracts#lópez-álvarez-santiago-and-jonathan-homola-more-bullets-more-doves-the-impact-of-violence-on-political-behavior)
 
 Homola, Jonathan. The Political Consequences of Group-Based Identities. [[Abstract]](http://jhomola.com/abstracts#homola-jonathan-the-political-consequences-of-group-based-identities)
 
 Homola, Jonathan, and Jeff Gill. A Flexible Class of Bayesian Frailty Models For Political Science Data. [[Abstract]](http://jhomola.com/abstracts#homola-jonathan-and-jeff-gill-a-flexible-class-of-bayesian-frailty-models-for-political-science-data)
+
+López Álvarez, Santiago, and Jonathan Homola. More Bullets, More Doves? The Impact of Violence on Political Behavior. [[Abstract]](http://jhomola.com/abstracts#lópez-álvarez-santiago-and-jonathan-homola-more-bullets-more-doves-the-impact-of-violence-on-political-behavior)
 
 Aaskoven, Lasse, and Jonathan Homola. The Long-term Effects of Refugees Exposure: Evidence from German Refugees in Denmark. *Work in progress*. [[Abstract]](http://jhomola.com/abstracts#aaskoven-lasse-and-jonathan-homola-the-long-term-effects-of-refugees-exposure-evidence-from-german-refugees-in-denmark)
 
