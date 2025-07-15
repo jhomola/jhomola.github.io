@@ -1,1 +1,1 @@
-Jonathan Homola | Assistant Professor
+Jonathan Homola | Associate Professor
