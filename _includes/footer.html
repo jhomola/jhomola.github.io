@@ -25,14 +25,14 @@
             </a>
           </li>
           {% endif %}
-		  {% if site.author.twitter and site.footer-links-active.twitter %}
+		{% if site.author.bsky and site.footer-links-active.bsky %}
           <li>
-            <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank" title="Twitter">
+            <a href="https://bsky.app/profile/{{ site.author.bsky }}" target="_blank" title="Blue Sky">
               <span class="fa-stack fa-lg" aria-hidden="true">
                 <i class="fas fa-circle fa-stack-2x"></i>
-                <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                <i class="fab fa-bluesky fa-stack-1x fa-inverse"></i>
               </span>
-              <span class="sr-only">Twitter</span>
+              <span class="sr-only">Blue Sky</span>
             </a>
           </li>
           {% endif %}
@@ -68,7 +68,18 @@
       		<span class="sr-only">ORCID</span>
    		</a>
   		</li>
- 	{%- endif -%}
+ 	{% endif %}
+		{% if site.author.twitter and site.footer-links-active.twitter %}
+          <li>
+            <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank" title="Twitter">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Twitter</span>
+            </a>
+          </li>
+          {% endif %}
 	{% if site.author.email and site.footer-links-active.email %}
           <li>
             <a href="mailto:{{ site.author.email }}" title="Email me">
