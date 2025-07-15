@@ -47,6 +47,7 @@ author:
   twitter: j_homola
   google-plus: aSE6nxMAAAAJ  # (programmed hack in footer file to make it googlescholar)
   orcid: 0000-0002-2524-9422
+  bsky: homola.bsky.social
   #facebook: yourname
   #reddit: yourname
   #linkedin: yourname 
@@ -67,6 +68,7 @@ footer-links-active:
   google-plus: true
   orcid: true
   github: true
+  bsky: true
   reddit: false
   linkedin: false
   xing: false
@@ -79,7 +81,7 @@ footer-links-active:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: false
   google: false
   linkedin: false
