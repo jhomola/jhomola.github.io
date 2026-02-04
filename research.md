@@ -11,6 +11,11 @@ Replication data for my publications is available from my dataverse <a href="htt
 
 Information on my activities as a reviewer can be found on my Publons/Web of Science profile <a href="https://www.webofscience.com/wos/author/record/632185" target="_blank">[here.]</a>
 
+# Book
+Alizade, Jeyhun, Rafaela Dancygier, and Jonathan Homola. Forthcoming. *Downplaying Extremism? How the State Approaches Right-wing and Left-wing Extremist Threats.* Cambridge University Press (Elements in European Politics). [[Abstract]](http://jhomola.com/abstracts#alizade-jeyhun-rafaela-dancygier-and-jonathan-homola-structures-of-bias-how-the-state-systematically-downplays-right-wing-extremism)
+ * WZB Mitteilungen 183, March 2024: "Auf einem Auge blind" [[Link]](https://bibliothek.wzb.eu/artikel/2024/f-26074.pdf "WZB Mitteilungen")
+ * Washington Post, Monkey Cage, December 13, 2022: "Germany foiled a far-right coup attempt. It still has a right-wing problem." [[Link]](https://www.washingtonpost.com/politics/2022/12/13/germany-coup-reichsbrger-nazis/ "Washington Post/Monkey Cage")
+
 # Articles
 
 Dassonneville, Ruth, Nadjim Fréchet, Alexandra Jabbour, Benjamin Ferland, and Jonathan Homola. 2025. "Party responsiveness over time: From left-right to issue specific dimensions." *Party Politics* 31(4): 751-760. [[Link]](https://doi.org/10.1177/13540688241245065 "Party Politics")
@@ -58,10 +63,6 @@ Budge, Ian, and Jonathan Homola. 2012. "How Far Have European Political Parties 
 Gill, Jeff, and Jonathan Homola. 2018. "Issues in Polling Methodologies: Inference and Uncertainty." In: Lonna Rae Atkinson and R. Michael Alvarez (eds.): *The Oxford Handbook of Polling and Polling Methods*. Oxford: Oxford University Press: 275-298. [[Link]](http://doi.org/10.1093/oxfordhb/9780190213299.013.11 "OUP Handbooks") [[Replication]](http://doi.org/10.7910/DVN/X9NUOJ "Replication Files")
 
 # Work in Progress
-
-Alizade, Jeyhun, Rafaela Dancygier, and Jonathan Homola. Downplaying Extremism? How the State Approaches Right-wing and Left-wing Extremist Threats. *Revise & Resubmit*. [[Abstract]](http://jhomola.com/abstracts#alizade-jeyhun-rafaela-dancygier-and-jonathan-homola-structures-of-bias-how-the-state-systematically-downplays-right-wing-extremism)
- * WZB Mitteilungen 183, March 2024: "Auf einem Auge blind" [[Link]](https://bibliothek.wzb.eu/artikel/2024/f-26074.pdf "WZB Mitteilungen")
- * Washington Post, Monkey Cage, December 13, 2022: "Germany foiled a far-right coup attempt. It still has a right-wing problem." [[Link]](https://www.washingtonpost.com/politics/2022/12/13/germany-coup-reichsbrger-nazis/ "Washington Post/Monkey Cage")
 
 Homola, Jonathan. The Political Consequences of Group-Based Identities. [[Abstract]](http://jhomola.com/abstracts#homola-jonathan-the-political-consequences-of-group-based-identities)
 
