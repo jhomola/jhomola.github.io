@@ -12,7 +12,7 @@ Replication data for my publications is available from my dataverse <a href="htt
 Information on my activities as a reviewer can be found on my Publons/Web of Science profile <a href="https://www.webofscience.com/wos/author/record/632185" target="_blank">[here.]</a>
 
 # Book
-Alizade, Jeyhun, Rafaela Dancygier, and Jonathan Homola. Forthcoming. *Downplaying Extremism? How the State Approaches Right-wing and Left-wing Extremist Threats.* Cambridge University Press (Elements in European Politics). [[Link (Open Access)]](https://doi.org/10.1017/9781009633659 "Cambridge University Press) [[Replication]](https://doi.org/10.7910/DVN/C9HIYY "Replication Files")
+Alizade, Jeyhun, Rafaela Dancygier, and Jonathan Homola. Forthcoming. *Downplaying Extremism? How the State Approaches Right-wing and Left-wing Extremist Threats.* Cambridge University Press (Elements in European Politics). [[Link, Open Access]](https://doi.org/10.1017/9781009633659 "Cambridge University Press) [[Replication]](https://doi.org/10.7910/DVN/C9HIYY "Replication Files")
  * WZB Mitteilungen 183, March 2024: "Auf einem Auge blind" [[Link]](https://bibliothek.wzb.eu/artikel/2024/f-26074.pdf "WZB Mitteilungen")
  * Washington Post, Monkey Cage, December 13, 2022: "Germany foiled a far-right coup attempt. It still has a right-wing problem." [[Link]](https://www.washingtonpost.com/politics/2022/12/13/germany-coup-reichsbrger-nazis/ "Washington Post/Monkey Cage")
 
